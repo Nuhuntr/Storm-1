@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 group-title="DEPORTES;ESPAÑA;SD",ES: BARÇA TV (cat)➾(SD)⚽
+#EXTINF:-0 group-title="DEPORTES;ESPAÑA;SD",ES: BARÇA-TV (cat)➾(SD)⚽
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+ LaLiga I (🇪🇸) (FHD)⚽a
 http://154.54.220.247:51323/play/a032/index.m3u8
