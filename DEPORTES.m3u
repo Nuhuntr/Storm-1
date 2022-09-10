@@ -17,8 +17,6 @@ http://154.54.220.247:51323/play/a03a/index.m3u8
 http://38.143.137.221:8000/LA33/index.m3u8
 #EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN 2 (🇪🇸) (FHD)
 http://154.54.220.247:51323/play/a03b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN F1 (🇪🇸) (FHD)
-http://154.54.220.247:51323/play/a03d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+LCAMPEONES (🇪🇸)⚽ (FHD)⚽a
 http://154.54.220.247:51323/play/a03c/index.m3u8
 #EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+ LCAMPEONES (🇪🇸)⚽ (FHD)⚽b
@@ -31,6 +29,8 @@ http://45.135.194.113:8005/play/a024
 http://154.54.220.247:51323/play/a037/index.m3u8
 #EXTINF:-1 group-title="DEPORTES;ESPAÑA;HD",ES: LigaSmartBank2 (🇪🇸) (FHD)⚽b
 http://45.135.194.113:8005/play/a025
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN F1 (🇪🇸) (FHD)
+http://154.54.220.247:51323/play/a03d/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: ESPN DEPORTES (FHD)a
 http://38.143.137.221:8000/LA81/index.m3u8
