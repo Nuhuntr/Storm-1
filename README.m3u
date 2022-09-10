@@ -1,3 +1,348 @@
-#EXTM3U 
-#EXTINF:-1, Mundo de la Musica TV * | CL
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTM3U
+#EXTINF:-0 group-title="DEPORTES;ESPAÑA;SD",ES: BARÇA TV (cat)➾(SD)⚽
+http://154.62.74.29:1935/live/barza/chunklist.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+ LaLiga I (🇪🇸) (FHD)⚽a
+http://154.54.220.247:51323/play/a032/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+ LaLiga I (🇪🇸) (FHD)⚽b
+http://45.135.194.113:8001/play/a025
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN LaLiga (🇪🇸) (FHD)⚽a
+http://154.54.220.247:51323/play/a030/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN LaLiga (🇪🇸) (FHD)⚽b
+http://45.135.194.113:8003/play/a024
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN LaLiga2 (🇪🇸) (FHD)⚽
+http://154.54.220.247:51323/play/a034/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN 1 (🇪🇸) (FHD)a
+http://154.54.220.247:51323/play/a03a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;HD",ES: DAZN 1 (🇪🇸) (HD)b
+http://38.143.137.221:8000/LA33/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN 2 (🇪🇸) (FHD)
+http://154.54.220.247:51323/play/a03b/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: DAZN F1 (🇪🇸) (FHD)
+http://154.54.220.247:51323/play/a03d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+LCAMPEONES (🇪🇸)⚽ (FHD)⚽a
+http://154.54.220.247:51323/play/a03c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;FHD",ES: M+ LCAMPEONES (🇪🇸)⚽ (FHD)⚽b
+http://45.135.194.113:8004/play/a024
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;HD",ES: LigaSmartBank (🇪🇸) (FHD)⚽a
+http://154.54.220.247:51323/play/a036/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;HD",ES: LigaSmartBank (🇪🇸) (FHD)⚽b
+http://45.135.194.113:8005/play/a024
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;HD",ES: LigaSmartBank2 (🇪🇸) (FHD)⚽a
+http://154.54.220.247:51323/play/a037/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;ESPAÑA;HD",ES: LigaSmartBank2 (🇪🇸) (FHD)⚽b
+http://45.135.194.113:8005/play/a025
+
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: ESPN DEPORTES (FHD)a
+http://38.143.137.221:8000/LA81/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: ESPN (HD)b1
+http://45.160.15.130:8111/play/212
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: ESPN (HD)b2
+http://45.160.15.1:8111/play/a0qv
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: ESPN (HD)b3
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF:-1 group-title="DEPORTES;LATINO;SD",LA: ESPN 2 (SD)a
+http://38.143.137.221:8000/LA80/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: ESPN 2 (HD)b
+http://45.160.15.130:8111/play/214
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: ESPN 3 (FHD)a
+http://38.143.137.221:8000/LA79/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: ESPN 3 (HD)b
+http://45.160.15.130:8111/play/216
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: ESPN 4 (FHD)
+http://45.160.15.130:8111/play/218
+#EXTINF:-1 group-title="DEPORTES;LATINO;SD",LA: ESPN PLUS (SD-)
+http://38.143.137.221:8000/LA78/index.m3u8
+#EXTINF:-1 tvg-logo="https://police.bet/wp-content/uploads/2020/01/beIN_SPORTS.png" group-title="DEPORTES;LATINO;HD",LA: BEIN SPORTS (HD-)⚽
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: FUTV HD (HD)
+http://38.143.137.221:8000/LA94/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;LATINO;HD",LA: FOX DEPORTES 
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 group-title="DEPORTES;LATINO;SD",LA: Fox Sports 1 (SD)a1
+http://45.160.15.130:8111/play/209
+#EXTINF:-1 group-title="DEPORTES;LATINO;SD",LA: Fox Sports 1 (SD)a2
+http://45.160.15.1:8111/play/a0qg
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: Fox Sports 2 (FHD)a1
+http://45.160.15.130:8111/play/210
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: Fox Sports 2 (FHD)a2
+http://45.160.15.1:8111/play/a0qh
+#EXTINF:-1 group-title="DEPORTES;LATINO",LA: Fox Sports 3 (HD)a1
+http://45.160.15.130:8111/play/211
+#EXTINF:-1 group-title="DEPORTES;LATINO",LA: Fox Sports 3 (HD)a2
+http://45.160.15.1:8111/play/a0qi
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: TNT Sports (FHD)a1
+http://45.160.15.130:8111/play/233
+#EXTINF:-1 group-title="DEPORTES;LATINO;FHD",LA: TNT Sports (FHD)a2
+http://45.160.15.1:8111/play/233
+#EXTINF:-1 group-title="DEPORTES;LATINO;SD",LA: TNT Sports 2 (SD)
+http://45.160.15.130:8111/play/234
+#EXTINF:-1 group-title="DEPORTES;LATINO;SD",LA: TNT Sports 3 (SD)
+http://45.160.15.130:8111/play/235
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFl3zRU.png" group-title="DEPORTES;LATINO;HD",PT: ELEVEN SPORTS 1 (🇵🇹) (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JcANqBJ.png" group-title="DEPORTES;LATINO;HD",PT: ELEVEN SPORTS 2 (🇵🇹) (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Akxat2.png" group-title="DEPORTES;LATINO;HD",PT: ELEVEN SPORTS 3 (🇵🇹) (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeqAoTS.png" group-title="DEPORTES;PORTUGAL",PT: ELEVEN SPORTS 4 (🇵🇹) (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/URNcmBu.png" group-title="DEPORTES;PORTUGAL",PT: ELEVEN SPORTS 5 (🇵🇹) (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRMNOMu.png"group-title="DEPORTES;PORTUGAL",PT: ELEVEN SPORTS 6 (🇵🇹) (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VczKN1N.png" group-title="DEPORTES;ALBANIA;FHD",AL: TRING SPORT 1HD (🇦🇱) (FHD)⚽
+http://146.59.19.1:80/5031/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zp4VUm9.png" group-title="DEPORTES;ALBANIA;FHD",AL: TRING SPORT 2HD (🇦🇱) (FHD)⚽
+http://146.59.19.1:80/5030/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqYNqMuDJXFA0F786cW_dFEojvxjvX9XJLwvND8LIjVd2GGSN6Mlx-x-_YgD7sLrkpwY&usqp=CAU" group-title="DEPORTES;AZERBAYAN;FHD",AB: CBC SPORT HD (FHD)⚽
+http://hasan.tvcag.live:8080/50.7.144.122:1935/filbox/cbcsport.stream/index-3.m3u8
+
+#EXTINF:0 group-title="DEPORTES;UK/INGLES;FHD",IN: beIN Sport 1 (Eng) (FHD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/139
+#EXTINF:0 group-title="DEPORTES;FRANCIA",FR: beIN Sport 1 (Fra) (HD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/144
+#EXTINF:0 group-title="DEPORTES;UK/INGLES;FHD",IN: beIN Sport 2 (Eng) (FHD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/140
+#EXTINF:0 group-title="DEPORTES;FRANCIA",FR: beIN Sport 2 (Fra) (HD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/143
+#EXTINF:0 group-title="DEPORTES;UK/INGLES;FHD",IN: beIN Sport 3 HD (FHD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/141
+#EXTINF:0 group-title="DEPORTES;FRANCIA",FR: beIN Sport 3 (Fra) (HD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/142
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 1 (FHD-h.265)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/18
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 1 (HD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/17
+#EXTINF:0 group-title="DEPORTES;ARABE;HD;SD",AR: beIN Sports 1 (HD-SD)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/19
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 2 (FHD-h.265)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/21
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 2 (HD+)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/20
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 2 (HD-)⚽
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/22
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 3 (FHD-h.265)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/24
+#EXTINF: group-title="DEPORTES;ARABE;HD",AR: beIN Sports 3 (HD+)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/23
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 3 (HD)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/25
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 4 (FHD-h.265)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/27
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 4 (HD+)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/26
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 4 (HD)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/28
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 5 (FHD-h.265)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/30
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 5 (HD+)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/29
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 5 (HD)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/31
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 6 (FHD-h.265)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/33
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 6 (HD+)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/32
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 6 (HD)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/34
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 7 (FHD-h.265)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/36
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 7 (HD+)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/35
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 7 (HD)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/37
+
+#EXTINF:-1 group-title="DEPORTES;BULGARIA;SD",BL: MAX Sport 1 (BUL) (SD)
+http://83.228.75.166:8000/play/a0be
+#EXTINF:-1 group-title="DEPORTES;BULGARIA;SD",BL: MAX Sport 2 (BUL) (SD)
+http://83.228.75.166:8000/play/a0bf
+#EXTINF:-1 group-title="DEPORTES;BULGARIA;SD",BL: MAX Sport 3 (La Liga) (BUL) (SD)
+http://83.228.75.166:8000/play/a0bg
+#EXTINF:-1 group-title="DEPORTES;BULGARIA;SD",BL: MAX Sport 4 (La Liga) (BUL) (SD)
+http://83.228.75.166:8000/play/a0e7
+#EXTINF:-1 group-title="DEPORTES;FRANCIA;HD",FR: RMC Sports 1 (🇫🇷) (HD)A
+http://gg.gg/Rmcsp1
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="DEPORTES;FRANCIA;FHD",FR: RMC Sports 1 (🇫🇷) (FHD)B
+http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES;FRANCIA;HD",FR: RMC Sports 2 (🇫🇷) (HD*)A
+http://gg.gg/Rmcsp2
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="DEPORTES;FRANCIA;HD",FR: RMC Sports 2 (🇫🇷) (HD*)B
+http://51.178.65.238:80/RMC2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="DEPORTES;FRANCIA;HD",FR: RMC Sports 3 (🇫🇷) (HD)
+http://51.178.65.238:80/RMC3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg" group-title="DEPORTES;FRANCIA;HD",FR: RMC Sports 4 (🇫🇷) (HD*)
+http://51.178.65.238:80/RMC4/index.m3u8
+#EXTINF:0 tvg-logo="https://xmltv.ch/wp-content/uploads/2020/02/35-300x300.png" group-title="DEPORTES;FRANCIA;FHD",FR: Canal+ Sport (🇫🇷) (FHD)
+http://wickediptv.xyz:25461/zaV695btB5TF/VbH7gADBYkMF/57278
+
+#EXTINF:0 logo="https://i.imgur.com/yroT6hn.png" group-title="DEPORTES;ALEMANIA;HD",ALE: SKY SPORT BUNDESLIGA 1 (HD)⚽
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRlYCCgWucWe5VgT6cQa8FzW
+#EXTINF:0 tvg-logo="https://i.imgur.com/15g1dyP.png" group-title="DEPORTES;ALEMANIA;HD",ALE: SKY SPORT NEWS (HD)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuwnUwS0hF-cBrhE84qXm6ztaUhDTbNJ21_V_XlOVk4V
+#EXTINF:0 tvg-logo="https://i.imgur.com/6Z08EEH.png"  group-title="DEPORTES;ALEMANIA;HD",ALE: SKY SPORT TOP EVENT (HD)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlHDSiLXnhNEc7d0YtkYjfz8l_CXH8SkopTQLd4zAsMF
+#EXTINF:0 tvg-logo="https://i.imgur.com/Fv9YXVQ.png" group-title="DEPORTES;ALEMANIA;HD",ALE: SKY SPORT TENNIS (HD)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
+#EXTINF:0 tvg-logo="https://i.imgur.com/ixeoali.png" group-title="DEPORTES;ALEMANIA;HD",ALE: SKY SPORT F1 (HD)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuwnUwS0hF-cBrhE84qXm6ztaUhDTbNJ21_V_XlOVk4V
+
+#EXTINF:-1 group-title="DEPORTES;ARABE;FHD",AR: ABU DHABI SPORT 1 (FHD)a
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="DEPORTES;ARABE;FHD",AR: ABU DHABI SPORT 2 (FHD)b
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports (Global) (FHD)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports Global (HD)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/6
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 1 PREMIUM (FHD)a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7485
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 1 PREMIUM (FHD)b 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7490
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 1 PREMIUM (HD)c
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7488
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 1 PREMIUM (HD+)d
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/8
+#EXTINF:0 group-title="DEPORTES;ARABE;SD",AR: beIN Sports 1 PREMIUM (SD)e
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7493
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 2 PREMIUM (FHD-h.265)a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/12
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 2 PREMIUM (HD)b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/11
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports 3 PREMIUM (FHD-h.265)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/15
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 3 PREMIUM (HD+)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/14
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports 3 PREMIUM (HD-)⚽c
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/16
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: BEIN SPORTS AFC (FHD)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7483
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: BEIN SPORTS AFC (HD)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7486
+#EXTINF:0 group-title="DEPORTES;ARABE;SD",AR: BEIN SPORTS AFC (SD)⚽c
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7491
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: BEIN SPORTS 1 AFC (FHD-HEVC)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7484
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: BEIN SPORTS 1 AFC (HD)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7487
+#EXTINF:0 group-title="DEPORTES;ARABE;SD",AR: BEIN SPORTS 1 AFC (SD)⚽c
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7492
+
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: BEIN SPORTS 3 AFC (HD)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7489
+#EXTINF:0 group-title="DEPORTES;ARABE;SD",AR: BEIN SPORTS 3 AFC (SD)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7494
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports XTRA 1 (FHD)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/845
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports XTRA 1 (FHD)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/844
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports XTRA 1 (HD)⚽c
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/843
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports XTRA 1 (HD)⚽d
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/846
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports XTRA 2 (FHD)⚽a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/849
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports XTRA 2 (HD)⚽b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/848
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports XTRA 2 (HD)⚽c
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/847
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports XTRA 2 (HD)⚽d
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/850
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports MAX (FHD)a1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/10
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports MAX (FHD)a2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/13
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports "PREMIUM" (FHD)??
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/9
+
+#EXTINF:0 group-title="DEPORTES;ARABE;FHD",AR: beIN Sports News (FHD)a
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/5
+#EXTINF:0 group-title="DEPORTES;ARABE;HD",AR: beIN Sports News (HD)b
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-PvsobqdM0HZFWIfxUZu_fmr_uPq_n19Yg&usqp=CAU" group-title="DEPORTES;ARABE;FHD",AR: DUBAI SPORTS 1 (FHD)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-PvsobqdM0HZFWIfxUZu_fmr_uPq_n19Yg&usqp=CAU" group-title="DEPORTES;ARABE;FHD",AR: DUBAI SPORTS 2 (FHD)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-PvsobqdM0HZFWIfxUZu_fmr_uPq_n19Yg&usqp=CAU" group-title="DEPORTES;ARABE;FHD",AR: DUBAI SPORTS 3 (FHD)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
