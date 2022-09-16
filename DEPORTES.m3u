@@ -405,9 +405,6 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 http://45.135.194.113:8001/play/a025
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): M+ LaLiga I (b) (FHD)⚽
 http://154.54.220.247:51323/play/a032/index.m3u8
-#EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): DAZN LaLiga (CSTREAM)⚽
-#EXTVLCOPT:http-referer=https://bahiadeportes.com/
-https://deliriousholistic.net/embed/llk0k0ub3g
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): DAZN LaLiga (a) (FHD)⚽
 http://45.135.194.113:8003/play/a024
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): DAZN LaLiga (b) (FHD)⚽
