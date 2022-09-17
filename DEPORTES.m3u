@@ -21,6 +21,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 group-title="RELAX",Zen (HD)
 https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Curiosidad",Paisajes por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="RELAX",Aurora (Bumblebee.tv)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 group-title="RELAX",Anytime Fireplace (cloudfront)
@@ -1849,3 +1851,1564 @@ http://45.135.194.113:8005/play/a025
 http://154.54.220.247:51323/play/a037/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): TVE Teledeporte (FHD)
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",Euronews
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="PLUTO-NOTICIAS",France 24 Español (e)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",Canal Parlamento
+ (e-congresodirecto) https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",7NN Noticias (e)
+
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",El Confidencial (e)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",Negocios TV (e)
+https://live.gooru.live/negocios/live.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE 24h (e) (HD)
+
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 1 (HD)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 1 (SD)
+http://190.131.228.59:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE la 1 (SD-)
+http://45.160.15.130:8111/play/153
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 2 (FHD)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",TV3 (e) (cat) (FHD)
+https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",TV3 (e) (cat) (HD)
+https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1 group-title="TV LOCAL",Alacanti TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 group-title="TV LOCAL",12TV Alicante
+https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV Vega Baja
+https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Elche 7 TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Punt 3 Vall Uixó
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV 4 Vall de Uxó
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Intercomarcal TV
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Levante TV
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Burriana TV
+https://www.burrianateve.com/hls/btv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",telesafor
+http://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Onda Valencia
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",À Punt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TeleValencia
+https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Univers TV
+https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV Almassorah
+https://live.fullsport.es/hls/tva_src/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Ciudades Del Ocio TV
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",El Toro Valencia TV
+https://video3.lhdserver.es/eltorovalencia/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 56
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Tevequatre TV
+https://live.yowi.tv/030d78427f4b6a6a3911/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Urban Revolution
+https://urbanrevolution.es:8443/live/TV/chunklist_w1780959067.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV3 (cat) (FHD)
+https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV3 (cat) (HD)
+https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 group-title="TV LOCAL", E3 (Esport 3) (cat) (FHD)
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
+#EXTINF:-1,3/24 (catalan)
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_3.m3u8
+#EXTINF:-1 group-title="TV LOCAL",betevé (cat)a
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 group-title="TV LOCAL",Betevé (cat)b
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 group-title="TV LOCAL",Fibracat TV (cat)
+https://cdn02.fibracat.cat/fibracattv/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",teve.cat (cat)
+https://www.tdtchannels.com/stream/tevecat.m3u8
+#EXTINF:-1 group-title="TV LOCAL",8 TV (cat)
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TAC 12 (cat)
+https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV de Girona (cat)
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Sur 2 Andalucía
+http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Trece
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",El Toro TV
+https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",101TV Málaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Mijas 3.40 TV
+https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Onda Cádiz
+https://adc-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Huelva TV
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 45 TV
+https://live.yowi.tv/58b79e6a71f5459d5fc9/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",PTV Málaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Córdoba TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Costa Noroeste TV
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Teleonuba
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Condavisión
+https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",CanalCosta
+https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Interalmería TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal San Roque
+https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Estepona TV
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Doñana
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 group-title="TV LOCAL",PTV Linares
+https://streamer.zapitv.com/ptv-linarez/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Marbella TV
+https://limited41.todostreaming.es/live/marbellatv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",CostadelSol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Bailén TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",101 TV Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 group-title="TV LOCAL",9 la Loma TV
+https://9laloma.tv/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Vivamóvil TV
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",101 TV Axarquía
+https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8
+#EXTINF:-1 group-title="TV LOCAL",PTV Granada
+https://streamer.zapitv.com/PTV-granada/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TeleGilena
+https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Fuengirola TV
+https://secure.todostreaming.es/live/nerja-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Islatel
+https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
+#EXTINF:-1 group-title="TV LOCAL",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",PTV Córdoba
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Coín
+https://cloudtv.provideo.es/live/canalcoin-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TVM Córdoba
+https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La Fábrica TV
+https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594069.m3u8
+#EXTINF:-1 group-title="TV LOCAL", Onda Cádiz 24
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Aragón TVh
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 25 Barbastro TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Mírame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Biosfera TV
+https://tvdatta.com:3785/live/biosferatvlive.m3u8
+#EXTINF:-1 group-title="TV LOCAL",NORTEvisión
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 group-title="TV LOCAL",RTV Mogán
+https://cloudvideo.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Afortunadas TV
+https://cloudvideo.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Guada TV Media
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Visión 6 TV
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Imás TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Alcarria TV
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TeleToledo
+https://cloud.streamingconnect.tv/hls/teletoledo/teletoledo.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 2000
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Avila
+https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Bierzo
+https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Burgos
+https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Leon
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Palencia
+https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Salamanca
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Segovia
+https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Soria
+https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Valladolid
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La 8 Zamora
+https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV Benavente
+https://cloud.streamingconnect.tv/hls//tvbenavente/tvbenavente.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV Aranda
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:-1,Junta Castilla y León
+https://16escalones-live2.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="TV LOCAL",RTV Ceuta
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Teleganés
+https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",GCM TV
+https://cloud.streamingconnect.tv/hls/tbmadrid/tbmadrid.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Nesting TV
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_j5bz42qbg5s8.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Zafra TV
+https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TeleVigo
+https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TEF
+https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",7 La Rioja
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Tele 7h
+https://5df8a678a3840.streamlock.net/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TeleBilbao
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",7 R. de Murcia
+https://obelix.nopiensomas.com/stream/abr/first.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Murcia
+https://cloud.streamingconnect.tv/hls/populartvrm/populartvrm.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Girona (cat)
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Tuya La Janda TV
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV5 Linares
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Teleonuba
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Tele Safor
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Punt 3 Vall Uixó
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Melilla
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Murcia
+https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Onda Cádiz
+https://adc-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",La Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Interalmeria TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Islatel
+https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Guada TV
+https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Diez TV Ubeda
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",CorTV
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Costa Noroeste TV
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",CostadelSol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canalcosta TV
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal San Roque
+https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 2000 La Solana
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="TV LOCAL",À Punt (cat)
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="TV LOCAL",101 Tele Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 group-title="TV LOCAL",7 La Rioja
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Visión 6 TV
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TVM Córdoba
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Tuya La Janda TV
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Trebujena TV
+http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Doñana
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Bailén TV
+http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Solidaria TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Si TV
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1,M95 Televisión Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Interalmeria TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 group-title="TV LOCAL",CUATRO 4 TV VALL UXA
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Cultura 24
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal 25 TV (Barbastro)
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",Telesur (FHD)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",Telesur (SD)
+http://179.1.77.222:8000/play/a00w
+#EXTINF:-1 group-title="NOTICIAS LATINO",VTV (venezolana de televisión)
+https://stream-05.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLv8UdFPS3vIjvK-_IkCI8ZD6RB1m5hAqNYoXSICdGM-m)/dm/3/x828i6j/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (HD)
+https://live1.presstv.ir/live/hispan_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (SD)a
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (SD)b
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Capital
+http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Canal Institucional (Co) (SD)
+http://190.131.228.59:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Canal del Congreso (Co)
+http://190.131.228.59:8000/play/a009/index.m3u
+#EXTINF:-1 group-title="NOTICIAS LATINO",LA: CNN Chile (SD)
+http://190.131.228.59:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",LA: CNN Espanol (SD)
+http://190.131.228.59:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",Iberoamerica Noticias
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",CGTN Español (lat)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: DE-PELICULA
+http://179.1.77.222:8000/play/a00j
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: CINECANAL (SD)a
+http://179.1.77.222:8000/play/a016
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: CINECANAL (SD)b
+http://190.131.228.59:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: Cinemax (SD)
+http://190.131.228.59:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO (FHD)
+http://190.131.228.59:8000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO (SD)
+http://190.131.228.59:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO2 (FHD)
+http://190.131.228.59:8000/play/a0ev/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO2 (SD)
+http://190.131.228.59:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO Plus (FHD)
+http://190.131.228.59:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO Xtreme (FHD)
+http://190.131.228.59:8000/play/a0hi/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO Xtreme (SD)
+http://190.131.228.59:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO Family (FHD)a
+http://190.131.228.59:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO Family (FHD)b
+http://181.224.201.3:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: HBO Family (SD)c
+http://190.131.228.59:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: Paramount (mx) (FHD)
+http://190.131.228.59:8000/play/a0gx/index.m3u8
+#EXTINF:-1 group-title="LATINO-SERIES",LA: Sony (SD)
+http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: Space (SD)
+http://190.131.228.59:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: STAR Channel (SD)
+http://190.131.228.59:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: STAR
+http://179.1.77.222:8000/play/a017
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: TCM (SD)
+http://190.131.228.59:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: TNT
+http://179.1.77.222:8000/play/a00y
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: Universal (SD)
+http://190.131.228.59:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: Warner (SD)
+http://190.131.228.59:8000/play/a05p/index.m3u8
+
+#EXTINF:-1 group-title="LATINO-SERIES",LA: A&E Mundo (SD)
+http://190.131.228.59:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="LATINO-SERIES",LA: AXN (SD)
+http://190.131.228.59:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="LATINO-SERIES",LA: TNT Series (FHD)
+http://190.131.228.59:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="LATINO-SERIES",LA: GOLDEN
+http://179.1.77.222:8000/play/a00p
+#EXTINF:-1 group-title="LATINO-SERIES",LA: AMC
+http://181.224.201.3:8000/play/a042/index.m3u8
+
+#EXTINF:-1 group-title="LATINO-TELENOVELAS",LA: Canal Uno (SD)
+http://190.131.228.59:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="LATINO-TELENOVELAS",LA: Pasiones (FHD)
+http://190.131.228.59:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="LATINO-TELENOVELAS",LA: Telemundo
+http://190.131.228.59:8000/play/a067/index.m3u
+#EXTINF:-1 group-title="LATINO-TELENOVELAS",LA: telenovelas
+http://179.1.77.222:8000/play/a00l
+#EXTINF:-1 group-title="LATINO-TELENOVELAS",LA: Telecaribe
+http://190.131.228.59:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Canal Caracol (Co) (SD)
+http://190.131.228.59:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Studio Universal
+http://190.131.228.59:8000/play/a0i0/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: City TV (SD)
+http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Discovery Turbo (Motor) (SD) 
+http://190.131.228.59:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Film & Arts (Co)(SD)
+http://190.131.228.59:8000/play/a0hc/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: La Red (Ch)(SD)
+http://190.131.228.59:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Lifetime (SD)
+http://190.131.228.59:8000/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Zona Latina
+http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: FX (Competición) (SD)
+http://190.131.228.59:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Teleantioquia
+http://190.131.228.59:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Telecafe
+http://190.131.228.59:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Teleislas
+http://190.131.228.59:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Univision HD
+http://190.131.228.59:8000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Canal de Las estrellas (HD)a
+http://179.1.77.222:8000/play/a00t
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Canal de Las estrellas (SD)b
+http://190.131.228.59:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Telefe (arg)
+http://190.131.228.59:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: TV+ (FHD)
+http://190.131.228.59:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: TRO (SD)
+http://190.131.228.59:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: TLC
+http://190.131.228.59:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: RCN (Co) (SD)
+http://190.131.228.59:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Telemundo
+http://179.1.77.222:8000/play/a00v
+
+#EXTINF:-1 group-title="LATINO-ESTILO DE VIDA",LA: E Entertainment (SD)
+http://190.131.228.59:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="LATINO-ESTILO DE VIDA",LA: I-Sat (SD)
+http://190.131.228.59:8000/play/a0ht/index.m3u8
+
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Animal Planet (FHD)
+http://181.224.201.3:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Animal Planet (SD)
+http://190.131.228.59:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Discovery Channel (FHD)
+http://179.1.77.222:8000/play/a013
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Discovery Channel (FHD)
+http://190.131.228.59:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Discovery Channel (SD)
+http://190.131.228.59:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Discovery ID (FHD)a
+http://181.224.201.3:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: Discovery ID (FHD)b
+http://190.131.228.59:8000/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: HISTORY Channel (FHD) 
+http://179.1.77.222:8000/play/a014
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: History Channel (SD)
+http://190.131.228.59:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: National
+http://179.1.77.222:8000/play/a00s
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Nat Geo (SD)
+http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Nat Geo (FHD)
+http://190.131.228.59:8000/play/a0gw/index.m3u8
+#EXTINF:-1 group-title="LATINO-DOCUMENTALES",LA: Discovery Channel (FHD)
+http://181.224.201.3:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Disney Channel v1 (SD)
+http://179.1.77.222:8000/play/a00x
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Disney Channel v2 (SD)
+http://190.131.228.59:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Disney Jr (Mx) (SD)
+http://190.131.228.59:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: DiSCOVERY KID
+http://179.1.77.222:8000/play/a00z
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: CN Cartoon Network (FHD)a
+http://181.224.201.3:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: CN Cartoon Network (FHD)b
+http://190.131.228.59:8000/play/a0i4/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Cartoon Network (SD)c
+http://190.131.228.59:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Discovery Kids (HD)
+http://181.224.201.3:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Discovery Kids (ca) (SD)
+http://190.131.228.59:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Nickelodeon (Co) (SD)
+http://190.131.228.59:8000/play/a03v/index.m3u
+#EXTINF:-1 group-title="LATINO-INFANTIL",LA: Nick Jr (SD)
+http://190.131.228.59:8000/play/a09b/index.m3u8
+
+#EXTINF:-1 group-title="TV ECUADOR",AMC
+http://201.234.194.58:6020/play/a0co/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",AXN
+http://201.234.194.58:6020/play/a09l/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Animal Planet
+http://201.234.194.58:6020/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Caracol
+http://201.234.194.58:6020/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Cartoon Network
+http://201.234.194.58:6020/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Cartoonito
+http://201.234.194.58:6020/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Cinecanal
+http://201.234.194.58:6020/play/a0ag/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Cinemax
+http://201.234.194.58:6020/play/a0b4/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Discovery Channel
+http://201.234.194.58:6020/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Discovery Kids
+http://201.234.194.58:6020/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Disney Channel
+http://201.234.194.58:6020/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Disney Junior
+http://201.234.194.58:6020/play/a097/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Distrito Comedia
+http://201.234.194.58:6020/play/a0dk/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",ESPN 2 HD
+http://201.234.194.58:6020/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",ESPN 3 HD
+http://201.234.194.58:6020/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",ESPN 4
+http://201.234.194.58:6020/play/a0da/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",ESPN HD
+http://201.234.194.58:6020/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Ecuador TV
+http://201.234.194.58:6020/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Ecuavisa
+http://201.234.194.58:6020/play/a0du/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",ElCanaldelFutbol HD
+http://201.234.194.58:6020/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",FX
+http://201.234.194.58:6020/play/a09o/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Fox Sports
+http://201.234.194.58:6020/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Fox Sports 1
+http://201.234.194.58:6020/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Fox Sports 2
+http://201.234.194.58:6020/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Gamavisiðn
+http://201.234.194.58:6020/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Golden
+http://201.234.194.58:6020/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",HBO MUNDI
+http://201.234.194.58:6020/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",HBO SD
+http://201.234.194.58:6020/play/a0br/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",HBO2
+http://201.234.194.58:6020/play/a08u/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",HTV
+http://201.234.194.58:6020/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",History 2
+http://201.234.194.58:6020/play/a0be/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",History Channel
+http://201.234.194.58:6020/play/a098/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",ID - Investigation Discovery
+http://201.234.194.58:6020/play/a09a/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Las Estrellas
+http://201.234.194.58:6020/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Latina
+http://201.234.194.58:6020/play/a085/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",MEGA
+http://201.234.194.58:6020/play/a09x/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",NTN 24 Horas
+http://201.234.194.58:6020/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",National Geographic
+http://201.234.194.58:6020/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Nick Jr
+http://201.234.194.58:6020/play/a08i/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Nickelodeon
+http://201.234.194.58:6020/play/a0av/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",OROMAR TV
+http://201.234.194.58:6020/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",RTS
+http://201.234.194.58:6020/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",RTU
+http://201.234.194.58:6020/play/a0do/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",STAR CHANNEL
+http://201.234.194.58:6020/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",STAR CHANNEL
+http://201.234.194.58:6020/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",STAR CHANNEL
+http://201.234.194.58:6020/play/a08s/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Sony
+http://201.234.194.58:6020/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Space
+http://201.234.194.58:6020/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Studio Universal
+http://201.234.194.58:6020/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",SyFy
+http://201.234.194.58:6020/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TC Televisiðn
+http://201.234.194.58:6020/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TCM
+http://201.234.194.58:6020/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TNT
+http://201.234.194.58:6020/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TNT SPORTS HD
+http://201.234.194.58:6020/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TV PERU
+http://201.234.194.58:6020/play/a08a/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TV+
+http://201.234.194.58:6020/play/a09v/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Teleamazonas
+http://201.234.194.58:6020/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Telemundo
+http://201.234.194.58:6020/play/a08k/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Telenovelas
+http://201.234.194.58:6020/play/a093/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Televicentro
+http://201.234.194.58:6020/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TyC Sports
+http://201.234.194.58:6020/play/a08q/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",TyC Sports HD
+http://201.234.194.58:6020/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Universal
+http://201.234.194.58:6020/play/a09m/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",WOBI
+http://201.234.194.58:6020/play/a08l/index.m3u8
+#EXTINF:-1 group-title="TV ECUADOR",Warner Channel
+http://201.234.194.58:6020/play/a08r/index.m3u8
+
+#EXTINF:-1 group-title="TV CHILE (1)",24 Horas
+http://138.36.253.14:8012/play/a001
+#EXTINF:-1 group-title="TV CHILE (1)",A&E HD
+http://138.36.253.14:8012/play/a002
+#EXTINF:-1 group-title="TV CHILE (1)",AXN HD
+http://138.36.253.14:8012/play/a003
+#EXTINF:-1 group-title="TV CHILE (1)",AXN inter
+http://138.36.253.14:8012/play/a012
+#EXTINF:-1 group-title="TV CHILE (1)",Animal Planet HD
+http://138.36.253.14:8012/play/a004
+#EXTINF:-1 group-title="TV CHILE (1)",B&N
+http://138.36.253.14:8012/play/a00y
+#EXTINF:-1 group-title="TV CHILE (1)",CHV inter
+http://138.36.253.14:8012/play/a01b
+#EXTINF:-1 group-title="TV CHILE (1)",CNN Chile
+http://138.36.253.14:8012/play/a01s
+#EXTINF:-1 group-title="TV CHILE (1)",CNN Chile
+http://138.36.253.14:8012/play/a01r
+#EXTINF:-1 group-title="TV CHILE (1)",Canal Informativo
+http://138.36.253.14:8012/play/a014
+#EXTINF:-1 group-title="TV CHILE (1)",Canal13 inter
+http://138.36.253.14:8012/play/a01a
+#EXTINF:-1 group-title="TV CHILE (1)",CanaldelCaballo
+http://138.36.253.14:8012/play/a00x
+#EXTINF:-1 group-title="TV CHILE (1)",Cartoon Network
+http://138.36.253.14:8012/play/a01m
+#EXTINF:-1 group-title="TV CHILE (1)",Cine Premium
+http://138.36.253.14:8012/play/a023
+#EXTINF:-1 group-title="TV CHILE (1)",Cinemax
+http://138.36.253.14:8012/play/a01z
+#EXTINF:-1 group-title="TV CHILE (1)",ClickTV
+http://138.36.253.14:8012/play/a010
+#EXTINF:-1 group-title="TV CHILE (1)",DW
+http://138.36.253.14:8012/play/a005
+#EXTINF:-1 group-title="TV CHILE (1)",Discovery Channel
+http://138.36.253.14:8012/play/a024
+#EXTINF:-1 group-title="TV CHILE (1)",Discovery Kids
+http://138.36.253.14:8012/play/a00c
+#EXTINF:-1 group-title="TV CHILE (1)",Discovery Turbo
+http://138.36.253.14:8012/play/a00g
+#EXTINF:-1 group-title="TV CHILE (1)",Discovery Word
+http://138.36.253.14:8012/play/a00d
+#EXTINF:-1 group-title="TV CHILE (1)",Disney Jr
+http://138.36.253.14:8012/play/a01t
+#EXTINF:-1 group-title="TV CHILE (1)",Dos
+http://138.36.253.14:8012/play/a00v
+#EXTINF:-1 group-title="TV CHILE (1)",DosKids
+http://138.36.253.14:8012/play/a00w
+#EXTINF:-1 group-title="TV CHILE (1)",E!
+http://138.36.253.14:8012/play/a01x
+#EXTINF:-1 group-title="TV CHILE (1)",EMTV
+http://138.36.253.14:8012/play/a01e
+#EXTINF:-1 group-title="TV CHILE (1)",ESPN 2
+http://138.36.253.14:8012/play/a025
+#EXTINF:-1 group-title="TV CHILE (1)",ETC
+http://138.36.253.14:8012/play/a01l
+#EXTINF:-1 group-title="TV CHILE (1)",EWTN
+http://138.36.253.14:8012/play/a01h
+#EXTINF:-1 group-title="TV CHILE (1)",Energeek
+http://138.36.253.14:8012/play/a00h
+#EXTINF:-1 group-title="TV CHILE (1)",Energeek-2
+http://138.36.253.14:8012/play/a00i
+#EXTINF:-1 group-title="TV CHILE (1)",FTV
+http://138.36.253.14:8012/play/a01f
+#EXTINF:-1 group-title="TV CHILE (1)",FX
+http://138.36.253.14:8012/play/a00b
+#EXTINF:-1 group-title="TV CHILE (1)",Fitmaxx
+http://138.36.253.14:8012/play/a00u
+#EXTINF:-1 group-title="TV CHILE (1)",Glitz
+http://138.36.253.14:8012/play/a01g
+#EXTINF:-1 group-title="TV CHILE (1)",GokuTv
+http://138.36.253.14:8012/play/a01n
+#EXTINF:-1 group-title="TV CHILE (1)",HBO
+http://138.36.253.14:8012/play/a01y
+#EXTINF:-1 group-title="TV CHILE (1)",InterTV
+http://138.36.253.14:8012/play/a01d
+#EXTINF:-1 group-title="TV CHILE (1)",KaravanaTV
+http://138.36.253.14:8012/play/a00n
+#EXTINF:-1 group-title="TV CHILE (1)",Kpop
+http://138.36.253.14:8012/play/a00r
+#EXTINF:-1 group-title="TV CHILE (1)",La Red
+http://138.36.253.14:8012/play/a00a
+#EXTINF:-1 group-title="TV CHILE (1)",LaRed inter
+http://138.36.253.14:8012/play/a01c
+#EXTINF:-1 group-title="TV CHILE (1)",Ladies
+http://138.36.253.14:8012/play/a018
+#EXTINF:-1 group-title="TV CHILE (1)",Love Natural
+http://138.36.253.14:8012/play/a01o
+#EXTINF:-1 group-title="TV CHILE (1)",MEGA inter
+http://138.36.253.14:8012/play/a019
+#EXTINF:-1 group-title="TV CHILE (1)",MTV
+http://138.36.253.14:8012/play/a006
+#EXTINF:-1 group-title="TV CHILE (1)",MXClassic
+http://138.36.253.14:8012/play/a00l
+#EXTINF:-1 group-title="TV CHILE (1)",MXFamily
+http://138.36.253.14:8012/play/a00k
+#EXTINF:-1 group-title="TV CHILE (1)",MXOLD
+http://138.36.253.14:8012/play/a00m
+#EXTINF:-1 group-title="TV CHILE (1)",MXPrime
+http://138.36.253.14:8012/play/a00j
+#EXTINF:-1 group-title="TV CHILE (1)",MundoySabor
+http://138.36.253.14:8012/play/a00s
+#EXTINF:-1 group-title="TV CHILE (1)",NTV
+http://138.36.253.14:8012/play/a01k
+#EXTINF:-1 group-title="TV CHILE (1)",OLDMusic
+http://138.36.253.14:8012/play/a00p
+#EXTINF:-1 group-title="TV CHILE (1)",OnTour
+http://138.36.253.14:8012/play/a00t
+#EXTINF:-1 group-title="TV CHILE (1)",Pura Noticia
+http://138.36.253.14:8012/play/a01w
+#EXTINF:-1 group-title="TV CHILE (1)",Sony
+http://138.36.253.14:8012/play/a01j
+#EXTINF:-1 group-title="TV CHILE (1)",Sportex
+http://138.36.253.14:8012/play/a017
+#EXTINF:-1 group-title="TV CHILE (1)",Star Channel
+http://138.36.253.14:8012/play/a00e
+#EXTINF:-1 group-title="TV CHILE (1)",TCM
+http://138.36.253.14:8012/play/a00f
+#EXTINF:-1 group-title="TV CHILE (1)",TLC
+http://138.36.253.14:8012/play/a022
+#EXTINF:-1 group-title="TV CHILE (1)",TNT Series
+http://138.36.253.14:8012/play/a01v
+#EXTINF:-1 group-title="TV CHILE (1)",TNT Sport 2
+http://138.36.253.14:8012/play/a016
+#EXTINF:-1 group-title="TV CHILE (1)",TNT Sport 3
+http://138.36.253.14:8012/play/a015
+#EXTINF:-1 group-title="TV CHILE (1)",TV+
+http://138.36.253.14:8012/play/a009
+#EXTINF:-1 group-title="TV CHILE (1)",TVE
+http://138.36.253.14:8012/play/a007
+#EXTINF:-1 group-title="TV CHILE (1)",TVN inter
+http://138.36.253.14:8012/play/a011
+#EXTINF:-1 group-title="TV CHILE (1)",TVSalud
+http://138.36.253.14:8012/play/a00z
+#EXTINF:-1 group-title="TV CHILE (1)",Telemundo
+http://138.36.253.14:8012/play/a008
+#EXTINF:-1 group-title="TV CHILE (1)",Urbano
+http://138.36.253.14:8012/play/a00o
+#EXTINF:-1 group-title="TV CHILE (1)",Warner
+http://138.36.253.14:8012/play/a01i
+#EXTINF:-1 group-title="TV CHILE (1)",Zoomback
+http://138.36.253.14:8012/play/a00q
+
+#EXTINF:-1 group-title="TV CHILE (2)",AMC HD
+http://190.43.232.193:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",ATV
+http://190.43.232.193:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",AXN HD
+http://190.43.232.193:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",America TV PY
+http://190.43.232.193:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",AmericaTV
+http://190.43.232.193:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Animal Planet HD
+http://190.43.232.193:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",CNN Chile
+http://190.43.232.193:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Cartoon Network
+http://190.43.232.193:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Cine Latino
+http://190.43.232.193:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",CineMax
+http://190.43.232.193:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Cinecanal
+http://190.43.232.193:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Claro Sports
+http://190.43.232.193:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Claro Sports 2 SD
+http://190.43.232.193:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Comedy Central HD
+http://190.43.232.193:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",DHE HD
+http://190.43.232.193:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",DISC THEATHER HD
+http://190.43.232.193:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Discovery Channel HD
+http://190.43.232.193:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Discovery ID
+http://190.43.232.193:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Discovery ID HD
+http://190.43.232.193:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Discovery World HD
+http://190.43.232.193:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",E! Entertairment HD
+http://190.43.232.193:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",ESPN 2 HD
+http://190.43.232.193:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",ESPN 3 HD
+http://190.43.232.193:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",ESPN 4
+http://190.43.232.193:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",ESPN 4 HD
+http://190.43.232.193:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",ESPN HD
+http://190.43.232.193:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",FOX SPORTS 2 HD
+http://190.43.232.193:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",FOX SPORTS 3 HD
+http://190.43.232.193:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",FOX Sports 2
+http://190.43.232.193:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",FX HD
+http://190.43.232.193:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",France 24
+http://190.43.232.193:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Golden
+http://190.43.232.193:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",H2
+http://190.43.232.193:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HBO
+http://190.43.232.193:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HBO Family
+http://190.43.232.193:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HBO Plus
+http://190.43.232.193:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HBO2
+http://190.43.232.193:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HOLA! TV HD
+http://190.43.232.193:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HTV
+http://190.43.232.193:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",History Channel
+http://190.43.232.193:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",HomeandHealth
+http://190.43.232.193:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",I-Sat
+http://190.43.232.193:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Latina
+http://190.43.232.193:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Lifetime
+http://190.43.232.193:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",MTV
+http://190.43.232.193:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",MTV 00s
+http://190.43.232.193:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Nat Geo
+http://190.43.232.193:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Nat Geo HD
+http://190.43.232.193:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Nick SIM HD
+http://190.43.232.193:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Nickelodeon
+http://190.43.232.193:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Panamericana TV
+http://190.43.232.193:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Paramount HD
+http://190.43.232.193:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Pasiones HD
+http://190.43.232.193:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",RCN Novelas
+http://190.43.232.193:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",SPACE HD
+http://190.43.232.193:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",STAR CHANNEL
+http://190.43.232.193:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Sin Limites
+http://190.43.232.193:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Sony Movies HD
+http://190.43.232.193:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Studio Universal HD
+http://190.43.232.193:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",SyFy
+http://190.43.232.193:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",TBS
+http://190.43.232.193:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",TBS
+http://190.43.232.193:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",TCM
+http://190.43.232.193:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",TNT HD
+http://190.43.232.193:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",TV Peru
+http://190.43.232.193:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",TVE
+http://190.43.232.193:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Teen Nick HD
+http://190.43.232.193:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Telemundo HD
+http://190.43.232.193:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Tigo Sports HD
+http://190.43.232.193:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",UNIVERSAL COMEDY HD
+http://190.43.232.193:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",UNIVERSAL PREMIERE O HD
+http://190.43.232.193:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Universal
+http://190.43.232.193:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Univision HD
+http://190.43.232.193:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",WILLAX
+http://190.43.232.193:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="TV CHILE (2)",Zona Latina
+http://190.43.232.193:8000/play/a030/index.m3u8
+
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: A&E HD
+http://187.102.208.252:8000/play/a02h
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: AMC HD
+http://187.102.208.252:8000/play/a031
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: AXN HD
+http://187.102.208.252:8000/play/a02k
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: America TV HD
+http://187.102.208.252:8000/play/a05b
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Animal Planet HD
+http://187.102.208.252:8000/play/a03a
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: CHV HD
+http://187.102.208.252:8000/play/a03d
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Canal 13 HD
+http://187.102.208.252:8000/play/a04k
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Canal 24 Horas HD
+http://187.102.208.252:8000/play/a04q
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Caracol HD
+http://187.102.208.252:8000/play/a04s
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Cartoon Network HD
+http://187.102.208.252:8000/play/a035
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Cinecanal HD
+http://187.102.208.252:8000/play/a030
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Cinemax HD
+http://187.102.208.252:8000/play/a03o
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: DHE HD
+http://187.102.208.252:8000/play/a04u
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Discovery H&H HD
+http://187.102.208.252:8000/play/a05k
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Discovery HD
+http://187.102.208.252:8000/play/a04v
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Discovery Kids HD
+http://187.102.208.252:8000/play/a05j
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Discovery Theater HD
+http://187.102.208.252:8000/play/a05l
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Discovery World HD
+http://187.102.208.252:8000/play/a02z
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Disney HD
+http://187.102.208.252:8000/play/a03f
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Disney Junior HD
+http://187.102.208.252:8000/play/a03k
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: E! HD
+http://187.102.208.252:8000/play/a057
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN 2 HD
+http://187.102.208.252:8000/play/a03l
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN 2 HD
+http://187.102.208.252:8000/play/a02r
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN 2 HD
+http://187.102.208.252:8000/play/a02n
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN 3 HD
+http://187.102.208.252:8000/play/a03i
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN 4 HD
+http://187.102.208.252:8000/play/a05p
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN EXTRA HD
+http://187.102.208.252:8000/play/a032
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN HD
+http://187.102.208.252:8000/play/a05w
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN HD
+http://187.102.208.252:8000/play/a056
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ESPN HD
+http://187.102.208.252:8000/play/a02v
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: El Gourmet HD
+http://187.102.208.252:8000/play/a03s
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ElCanaldelFutbol HD
+http://187.102.208.252:8000/play/a05f
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: FOX Sports 2 HD
+http://187.102.208.252:8000/play/a05q
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: FX HD
+http://187.102.208.252:8000/play/a05v
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Fox Sports 1 HD
+http://187.102.208.252:8000/play/a04w
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Fox Sports 3 HD
+http://187.102.208.252:8000/play/a03j
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: GOLPERU HD
+http://187.102.208.252:8000/play/a05e
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Golden HD
+http://187.102.208.252:8000/play/a053
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: HBO 2 HD
+http://187.102.208.252:8000/play/a038
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: HBO Family HD
+http://187.102.208.252:8000/play/a04y
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: HBO HD
+http://187.102.208.252:8000/play/a03b
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: HBO POP HD
+http://187.102.208.252:8000/play/a02o
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: HBO XTREME HD
+http://187.102.208.252:8000/play/a04z
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: History 2 HD
+http://187.102.208.252:8000/play/a04x
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: History Channel HD
+http://187.102.208.252:8000/play/a02g
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: ID HD
+http://187.102.208.252:8000/play/a03q
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Kanal D Drama HD
+http://187.102.208.252:8000/play/a034
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: La Red HD
+http://187.102.208.252:8000/play/a02u
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Las Estrellas HD
+http://187.102.208.252:8000/play/a04t
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Latina HD
+http://187.102.208.252:8000/play/a05c
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: MEGA HD
+http://187.102.208.252:8000/play/a02x
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Movistar Deportes HD
+http://187.102.208.252:8000/play/a052
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Nat Geo HD
+http://187.102.208.252:8000/play/a02y
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Nick HD
+http://187.102.208.252:8000/play/a02t
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Paramount HD
+http://187.102.208.252:8000/play/a036
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Pasiones HD
+http://187.102.208.252:8000/play/a03e
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Playboy HD
+http://187.102.208.252:8000/play/a05t
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: RCN HD
+http://187.102.208.252:8000/play/a05x
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: STAR CHANNEL HD
+http://187.102.208.252:8000/play/a02s
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: STAR CHANNEL HD
+http://187.102.208.252:8000/play/a05m
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Sony HD
+http://187.102.208.252:8000/play/a02i
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Space HD
+http://187.102.208.252:8000/play/a02l
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Studio Universal HD
+http://187.102.208.252:8000/play/a037
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Sun Channel HD
+http://187.102.208.252:8000/play/a05i
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: TNT HD
+http://187.102.208.252:8000/play/a03h
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: TNT SPORTS HD
+http://187.102.208.252:8000/play/a02m
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: TNT Series HD
+http://187.102.208.252:8000/play/a05u
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: TVN HD
+http://187.102.208.252:8000/play/a03c
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: TyC Sports HD
+http://187.102.208.252:8000/play/a05d
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: UNIVERSAL CHANNEL HD
+http://187.102.208.252:8000/play/a05n
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Warner Channel HD
+http://187.102.208.252:8000/play/a02j
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Win Sports HD
+http://187.102.208.252:8000/play/a02p
+#EXTINF:-1 group-title="TV COLOMBIA (1)",CO: Win Sports+ HD
+http://187.102.208.252:8000/play/a039
+
+#EXTINF:-1 group-title="TV UK",BBC Two Wales
+http://146.19.16.205:8011/play/a051
+#EXTINF:-1 group-title="TV UK",Channel 4
+http://146.19.16.205:8011/play/a04y
+#EXTINF:-1 group-title="TV UK",Channel 4
+http://146.19.16.205:8011/play/a04x
+#EXTINF:-1 group-title="TV UK",Channel 4
+http://146.19.16.205:8011/play/a04w
+#EXTINF:-1 group-title="TV UK",Channel 4
+http://146.19.16.205:8011/play/a04v
+#EXTINF:-1 group-title="TV UK",Channel 4
+http://146.19.16.205:8011/play/a04u
+#EXTINF:-1 group-title="TV UK",E4
+http://146.19.16.205:8011/play/a050
+#EXTINF:-1 group-title="TV UK",Film4
+http://146.19.16.205:8011/play/a04z
+
+#EXTINF:-1 group-title="TV ITALIA",RAI 4K
+http://154.54.220.67:34780/play/a040
+#EXTINF:-1 group-title="TV ITALIA",RSI LA 1 HD
+http://154.54.220.67:34780/play/a05c
+#EXTINF:-1 group-title="TV ITALIA",RSI LA 2 HD
+http://154.54.220.67:34780/play/a059
+#EXTINF:-1 group-title="TV ITALIA",Rai 1 HD
+http://154.54.220.67:34780/play/a046
+#EXTINF:-1 group-title="TV ITALIA",Rai 2 HD
+http://154.54.220.67:34780/play/a047
+#EXTINF:-1 group-title="TV ITALIA",Rai 3 HD
+http://154.54.220.67:34780/play/a048
+#EXTINF:-1 group-title="TV ITALIA",Rai 4 HD
+http://154.54.220.67:34780/play/a04n
+#EXTINF:-1 group-title="TV ITALIA",Rai 5 HD
+http://154.54.220.67:34780/play/a04j
+#EXTINF:-1 group-title="TV ITALIA",Rai Gulp HD
+http://154.54.220.67:34780/play/a04k
+#EXTINF:-1 group-title="TV ITALIA",Rai Movie HD
+http://154.54.220.67:34780/play/a04p
+#EXTINF:-1 group-title="TV ITALIA",Rai News 24 HD
+http://154.54.220.67:34780/play/a04a
+#EXTINF:-1 group-title="TV ITALIA",Rai Storia HD
+http://154.54.220.67:34780/play/a04b
+#EXTINF:-1 group-title="TV ITALIA",Rai YoYo HD
+http://154.54.220.67:34780/play/a04l
+
+#EXTINF:-1 group-title="TV ALEMANIA",13th Street HD
+http://212.18.115.177:3549/play/a037/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",3 Sat
+http://212.18.115.177:3549/play/a00q/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",3 Sat FHD
+http://212.18.115.177:3549/play/a00r/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ANIXE FHD
+http://212.18.115.177:3549/play/a01m/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ARD Alpha FHD
+http://212.18.115.177:3549/play/a01f/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ATV 1
+http://212.18.115.177:3549/play/a01n/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ATV 2
+http://212.18.115.177:3549/play/a01o/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Anixe
+http://212.18.115.177:3549/play/a01l/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Arte
+http://212.18.115.177:3549/play/a00s/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Arte FHD
+http://212.18.115.177:3549/play/a00t/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Astro
+http://212.18.115.177:3549/play/a01i/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",BR Fernsehen Nord
+http://212.18.115.177:3549/play/a03c/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Bibel TV FHD
+http://212.18.115.177:3549/play/a01g/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Bild FHD
+http://212.18.115.177:3549/play/a042/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Boomerang
+http://212.18.115.177:3549/play/a066/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",CNBC FHD
+http://212.18.115.177:3549/play/a03h/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Cartoon Network
+http://212.18.115.177:3549/play/a065/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Channel 21 FHD
+http://212.18.115.177:3549/play/a019/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Comedy Central FHD
+http://212.18.115.177:3549/play/a01b/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Comedy Central VIVA
+http://212.18.115.177:3549/play/a067/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Crime + Investigation
+http://212.18.115.177:3549/play/a03s/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",DAZN 1 BAR (FHD)
+http://212.18.115.177:3549/play/a04u/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",DAZN 2 BAR (FHD)
+http://212.18.115.177:3549/play/a04v/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",DMAX
+http://212.18.115.177:3549/play/a03n/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",DMAX FHD
+http://212.18.115.177:3549/play/a03o/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Das Erste
+http://212.18.115.177:3549/play/a001/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Das Erste FHD
+http://212.18.115.177:3549/play/a002/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Deutsches Musik Fernsehen
+http://212.18.115.177:3549/play/a05v/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Discovery Channel HD
+http://212.18.115.177:3549/play/a03u/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Disney Channel
+http://212.18.115.177:3549/play/a062/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Euronews
+http://212.18.115.177:3549/play/a03l/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Eurosport 1 Deutschland
+http://212.18.115.177:3549/play/a05c/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Eurosport 1 HD
+http://212.18.115.177:3549/play/a043/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Eurosport 2 (HD)
+http://212.18.115.177:3549/play/a045/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Genius Family
+http://212.18.115.177:3549/play/a025/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",HGTV
+http://212.18.115.177:3549/play/a03t/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",HSE 24 Extra FHD
+http://212.18.115.177:3549/play/a012/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",HSE 24 FHD
+http://212.18.115.177:3549/play/a011/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Handystar TV FHD
+http://212.18.115.177:3549/play/a014/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Health TV
+http://212.18.115.177:3549/play/a017/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Heimatkanal
+http://212.18.115.177:3549/play/a039/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",History FHD
+http://212.18.115.177:3549/play/a03v/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",INSIGHT TV FHD
+http://212.18.115.177:3549/play/a027/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Immer etwas Neues TV
+http://212.18.115.177:3549/play/a022/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Juwelo FHD
+http://212.18.115.177:3549/play/a029/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Kabel Eins
+http://212.18.115.177:3549/play/a00i/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Kabel Eins FHD
+http://212.18.115.177:3549/play/a00j/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Kika
+http://212.18.115.177:3549/play/a05y/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Kika FHD
+http://212.18.115.177:3549/play/a05z/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",MDR S-Anhalt
+http://212.18.115.177:3549/play/a03e/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",MTV FHD
+http://212.18.115.177:3549/play/a05u/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",MediaShop- Neuheiten
+http://212.18.115.177:3549/play/a024/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Motorvision TV
+http://212.18.115.177:3549/play/a05g/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",N24 DOKU
+http://212.18.115.177:3549/play/a03r/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",NITRO FHD
+http://212.18.115.177:3549/play/a016/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",NTV
+http://212.18.115.177:3549/play/a03i/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",NTV FHD
+http://212.18.115.177:3549/play/a03j/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Nat Geo Wild HD
+http://212.18.115.177:3549/play/a03y/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",National Geographic HD
+http://212.18.115.177:3549/play/a03x/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Nickelodeon
+http://212.18.115.177:3549/play/a060/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Nicktoons
+http://212.18.115.177:3549/play/a064/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ONE FHD
+http://212.18.115.177:3549/play/a01a/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ORF 1
+http://212.18.115.177:3549/play/a01p/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ORF 2
+http://212.18.115.177:3549/play/a01q/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ORF III
+http://212.18.115.177:3549/play/a01r/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ORF Sport+
+http://212.18.115.177:3549/play/a05f/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",One ARD
+http://212.18.115.177:3549/play/a00m/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Pearl TV Shop FHD
+http://212.18.115.177:3549/play/a020/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Phoenix TV
+http://212.18.115.177:3549/play/a03b/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Pro7 MAXX
+http://212.18.115.177:3549/play/a00z/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Pro7 MAXX FHD
+http://212.18.115.177:3549/play/a010/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ProSieben
+http://212.18.115.177:3549/play/a00g/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ProSieben FHD
+http://212.18.115.177:3549/play/a00h/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Puls 4 Austria
+http://212.18.115.177:3549/play/a01s/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",QVC 2 FHD
+http://212.18.115.177:3549/play/a01y/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",QVC FHD
+http://212.18.115.177:3549/play/a01w/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",QVC Style FHD
+http://212.18.115.177:3549/play/a01x/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL
+http://212.18.115.177:3549/play/a008/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL +
+http://212.18.115.177:3549/play/a013/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL 2
+http://212.18.115.177:3549/play/a00a/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL 2 FHD
+http://212.18.115.177:3549/play/a00b/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 1
+http://212.18.115.177:3549/play/a05j/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 10
+http://212.18.115.177:3549/play/a05s/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 2
+http://212.18.115.177:3549/play/a05k/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 3
+http://212.18.115.177:3549/play/a05l/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 4
+http://212.18.115.177:3549/play/a05m/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 5
+http://212.18.115.177:3549/play/a05n/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 6
+http://212.18.115.177:3549/play/a05o/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 7
+http://212.18.115.177:3549/play/a05p/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 8
+http://212.18.115.177:3549/play/a05q/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL EVENT 9
+http://212.18.115.177:3549/play/a05r/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL FHD
+http://212.18.115.177:3549/play/a009/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",RTL Nitro
+http://212.18.115.177:3549/play/a00o/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Regio TV
+http://212.18.115.177:3549/play/a023/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Romance TV
+http://212.18.115.177:3549/play/a00p/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SIXX
+http://212.18.115.177:3549/play/a00e/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SIXX FHD
+http://212.18.115.177:3549/play/a00f/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SKY Cinema
+http://212.18.115.177:3549/play/a02m/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SKY Cinema Family
+http://212.18.115.177:3549/play/a02q/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SKY Sport 1
+http://212.18.115.177:3549/play/a04d/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SPORTDIGITAL FUSSBALL HD
+http://212.18.115.177:3549/play/a05d/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SRF 1 HD
+http://212.18.115.177:3549/play/a01c/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",SUPER RTL FHD
+http://212.18.115.177:3549/play/a05x/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sat 1
+http://212.18.115.177:3549/play/a00c/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sat 1 FHD
+http://212.18.115.177:3549/play/a00d/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sat 1 Gold
+http://212.18.115.177:3549/play/a00x/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sat 1 Gold FHD
+http://212.18.115.177:3549/play/a00y/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Schau TV FHD
+http://212.18.115.177:3549/play/a01z/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ServusTV HD Deutschland
+http://212.18.115.177:3549/play/a01u/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ServusTV Oesterreich
+http://212.18.115.177:3549/play/a01t/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky 1 FHD
+http://212.18.115.177:3549/play/a034/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Atlantic HD
+http://212.18.115.177:3549/play/a031/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Action
+http://212.18.115.177:3549/play/a02s/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Best Of FHD
+http://212.18.115.177:3549/play/a02p/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Best Of HD
+http://212.18.115.177:3549/play/a02o/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Classics
+http://212.18.115.177:3549/play/a02n/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Comedy
+http://212.18.115.177:3549/play/a02w/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Premieren
+http://212.18.115.177:3549/play/a02y/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Premieren +24 HD
+http://212.18.115.177:3549/play/a02x/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Special FHD
+http://212.18.115.177:3549/play/a02z/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Cinema Thriller FHD
+http://212.18.115.177:3549/play/a02v/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Documentaries FHD
+http://212.18.115.177:3549/play/a040/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Krimi HD
+http://212.18.115.177:3549/play/a032/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Nature FHD
+http://212.18.115.177:3549/play/a041/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Replay FHD
+http://212.18.115.177:3549/play/a033/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 1 FHD
+http://212.18.115.177:3549/play/a04e/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 10 FHD
+http://212.18.115.177:3549/play/a04m/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 2
+http://212.18.115.177:3549/play/a04f/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 2 FHD
+http://212.18.115.177:3549/play/a04g/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 3 FHD
+http://212.18.115.177:3549/play/a04h/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 4 FHD
+http://212.18.115.177:3549/play/a04i/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 5 FHD
+http://212.18.115.177:3549/play/a04j/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport 6 FHD
+http://212.18.115.177:3549/play/a04k/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Austria 1 FHD
+http://212.18.115.177:3549/play/a058/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Austria 2 FHD
+http://212.18.115.177:3549/play/a059/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Austria 3 FHD
+http://212.18.115.177:3549/play/a05a/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Austria 4 FHD
+http://212.18.115.177:3549/play/a05b/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 1
+http://212.18.115.177:3549/play/a04w/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 1 FHD
+http://212.18.115.177:3549/play/a04x/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 2 HD
+http://212.18.115.177:3549/play/a04y/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 3
+http://212.18.115.177:3549/play/a04z/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 4
+http://212.18.115.177:3549/play/a050/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 4 FHD
+http://212.18.115.177:3549/play/a051/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 5
+http://212.18.115.177:3549/play/a052/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 6
+http://212.18.115.177:3549/play/a053/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 7
+http://212.18.115.177:3549/play/a054/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 8
+http://212.18.115.177:3549/play/a055/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 8 FHD
+http://212.18.115.177:3549/play/a056/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport Bundesliga 9 FHD
+http://212.18.115.177:3549/play/a057/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport F1 FHD
+http://212.18.115.177:3549/play/a05h/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport F1 HD
+http://212.18.115.177:3549/play/a05i/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport News
+http://212.18.115.177:3549/play/a04p/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sky Sport News FHD
+http://212.18.115.177:3549/play/a04q/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Spiegel Geschichte HD
+http://212.18.115.177:3549/play/a03w/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Spiegel TV Wissen
+http://212.18.115.177:3549/play/a026/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sport 1
+http://212.18.115.177:3549/play/a04r/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Sport 1 FHD
+http://212.18.115.177:3549/play/a04s/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Super RTL
+http://212.18.115.177:3549/play/a05w/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Syfy HD
+http://212.18.115.177:3549/play/a038/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",TELE 5
+http://212.18.115.177:3549/play/a00v/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",TELE 5 FHD
+http://212.18.115.177:3549/play/a00w/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",TLC
+http://212.18.115.177:3549/play/a03p/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",TLC FHD
+http://212.18.115.177:3549/play/a03q/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",TNT Film HD
+http://212.18.115.177:3549/play/a035/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Tagesschau 24 FHD
+http://212.18.115.177:3549/play/a021/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Toggo +
+http://212.18.115.177:3549/play/a061/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Universal TV FHD
+http://212.18.115.177:3549/play/a01h/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",VOX
+http://212.18.115.177:3549/play/a00k/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",VOX FHD
+http://212.18.115.177:3549/play/a00l/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",VOXup
+http://212.18.115.177:3549/play/a00n/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",WDR Bonn
+http://212.18.115.177:3549/play/a03k/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",WDR Dortmund
+http://212.18.115.177:3549/play/a00u/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",WELT FHD
+http://212.18.115.177:3549/play/a01v/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Waidwerk HD
+http://212.18.115.177:3549/play/a03z/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Warner TV Serie FHD
+http://212.18.115.177:3549/play/a02u/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",Welt
+http://212.18.115.177:3549/play/a028/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ZDF
+http://212.18.115.177:3549/play/a003/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ZDF FHD
+http://212.18.115.177:3549/play/a004/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ZDF Info
+http://212.18.115.177:3549/play/a005/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ZDF Info FHD
+http://212.18.115.177:3549/play/a006/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",ZDF neo FHD
+http://212.18.115.177:3549/play/a007/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",hr-Fernsehen
+http://212.18.115.177:3549/play/a03d/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",kabel eins Doku
+http://212.18.115.177:3549/play/a03m/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",rbb Berlin
+http://212.18.115.177:3549/play/a03f/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",rbb Berlin FHD
+http://212.18.115.177:3549/play/a03g/index.m3u8
+#EXTINF:-1 group-title="TV ALEMANIA",rbb Brandenburg FHD
+http://212.18.115.177:3549/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="TV-USA",InfoWars (eng)(HD)
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
