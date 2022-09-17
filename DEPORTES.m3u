@@ -1852,22 +1852,121 @@ http://154.54.220.247:51323/play/a037/index.m3u8
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): TVE Teledeporte (FHD)
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Euronews
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN DEPORTES (FHD)
+http://38.143.137.221:8000/LA81/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN PLUS (SD-)
+http://38.143.137.221:8000/LA78/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (a) (HD)
+http://45.160.15.130:8111/play/212
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (b) (HD)
+http://45.160.15.1:8111/play/a0qv
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (c) (HD)
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (d) (HD)
+http://190.131.228.59:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (e) (SD)
+http://179.1.77.222:8000/play/a012
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (f)Co (SD)
+http://190.131.228.59:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (a) (SD)
+http://38.143.137.221:8000/LA80/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (b) (HD)
+http://45.160.15.130:8111/play/214
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (c) (HD)
+http://190.131.228.59:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (d) (SD)
+http://190.131.228.59:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (e) (SD)
+http://190.131.228.59:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (f) (SD)
+http://190.131.228.59:8000/play/a0hn/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (a) (FHD)
+http://38.143.137.221:8000/LA79/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (b) (HD)
+http://45.160.15.130:8111/play/216c
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (c) (HD)
+http://190.131.228.59:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (d) (SD)
+http://190.131.228.59:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 4 (a) (FHD)
+http://45.160.15.130:8111/play/218
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 4 (b) (SD)
+http://181.224.201.3:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: FUTV HD (HD)
+http://38.143.137.221:8000/LA94/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: FOX DEPORTES (HD)
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sport (a) (SD)
+http://179.1.77.222:8000/play/a011
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports (b) (SD)
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 1 (a) (SD)
+http://45.160.15.130:8111/play/209
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 1 (b) (SD)
+http://45.160.15.1:8111/play/a0qg
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (a) (FHD)
+http://45.160.15.130:8111/play/210
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (b) (FHD)
+http://45.160.15.1:8111/play/a0qh
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (c) (SD)
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (a) (FHD)
+http://190.131.228.59:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (b) (HD)
+http://45.160.15.130:8111/play/211
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (c) (HD)
+http://45.160.15.1:8111/play/a0qi
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (d) (SD)
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: GOL TV (SD)
+http://190.131.228.59:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports (a) (FHD)
+http://45.160.15.130:8111/play/233
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports (b) (FHD)
+http://45.160.15.1:8111/play/233
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 2 (a) (SD)
+http://45.160.15.130:8111/play/234
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 2 (b) (SD)
+http://190.131.228.59:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 3 (SD)
+http://45.160.15.130:8111/play/235
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Claro Sports HD
+http://181.224.201.3:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Zoom
+http://190.131.228.59:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Win Sports+ (Chirincirco) (FHD)a
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TyC Sports
+http://190.131.228.59:8000/play/a05v/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Eurosport 1 (D)(FHD)
+http://185.236.229.13:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Sport TV 1 (FHD)
+http://185.236.229.13:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 2 (FHD)
+http://185.236.229.13:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 2 (FHD)
+http://185.236.229.13:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Sport TV 2 (FHD)
+http://185.236.229.13:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 3 (FHD)
+http://185.236.229.13:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 4 (FHD)
+http://185.236.229.13:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="PLUTO-NOTICIAS",France 24 Español (e)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Canal Parlamento
- (e-congresodirecto) https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
+#EXTINF:-1 group-title="PLUTO-NOTICIAS",Canal Parlamento (e-congresodirecto) 
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",7NN Noticias (e)
-
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",El Confidencial (e)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",Negocios TV (e)
 https://live.gooru.live/negocios/live.m3u8
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE 24h (e) (HD)
-
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 1 (HD)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
