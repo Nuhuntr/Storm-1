@@ -1953,6 +1953,21 @@ http://185.236.229.13:8000/play/a06d/index.m3u8
 http://185.236.229.13:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 4 (FHD)
 http://185.236.229.13:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/CFl3zRU.png",(🇵🇹): ELEVEN SPORTS 1 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/JcANqBJ.png",(🇵🇹): ELEVEN SPORTS 2 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/1Akxat2.png",(🇵🇹): ELEVEN SPORTS 3 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/1Akxat2.png",(🇵🇹): Eleven 3 (SD)
+http://185.236.229.13:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/TeqAoTS.png",(🇵🇹): ELEVEN SPORTS 4 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/URNcmBu.png",(🇵🇹): ELEVEN SPORTS 5 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/dRMNOMu.png",(🇵🇹): ELEVEN SPORTS 6 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+
 
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
