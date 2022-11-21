@@ -1815,10 +1815,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e7900073816
 #EXTINF:-1 group-title="PLUTO-DEPORTES",Fuel TV (sub)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): GOL MUNDIAL multiaudio (ACE-FHD)⚽
+acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): GOL MUNDIAL (ACE-FHD)⚽
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): GOL MUNDIAL (ACE-FHD)⚽
-acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): GOL MUNDIAL (ACE-FHD)⚽
 acestream://2f54416685b49e9a8fbe73884712fe018e3e9855
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): GOL MUNDIAL (ACE-720p)⚽
