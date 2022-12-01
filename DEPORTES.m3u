@@ -1832,6 +1832,8 @@ acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
 acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): GOL MUNDIAL 2 (ACE-HD)+⚽
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): TVE1 (ACE-HD)+⚽
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="DEPORTES ESPAÑA",(🇪🇸): BARÇA TV (cat)➾(SD)⚽
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:0 group-title="DEPORTES ESPAÑA",(🇪🇸): E3 (Esport 3) (cat) (FHD)
