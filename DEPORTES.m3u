@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-0 group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-0 group-title="RELAX",FreeBestTV SNIPTV (FHD)
+#EXTINF:-0 group-title="RELAX",Naturaleza (FHD)
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RELAX" channel-id="pluto-5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png",Paisajes por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2373,6 +2373,12 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://179.1.77.222:8000/play/a00w
 #EXTINF:-1 group-title="NOTICIAS LATINO",VTV (venezolana de televisión)
 https://stream-05.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLv8UdFPS3vIjvK-_IkCI8ZD6RB1m5hAqNYoXSICdGM-m)/dm/3/x828i6j/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",RT en español (FHD)
+https://cdn.odysee.live/1080/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",RT en español (HD)
+https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",RT en español (SD)
+https://cdn.odysee.live/480/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (HD)
 https://live1.presstv.ir/live/hispan_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (SD)a
