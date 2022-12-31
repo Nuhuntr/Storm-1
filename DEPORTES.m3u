@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz","https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml","https://i.mjh.nz/PlutoTV/es.xml"
 #EXTINF:-0 group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-0 group-title="RELAX",Naturaleza (FHD)
