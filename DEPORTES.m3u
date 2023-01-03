@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz","https://i.mjh.nz/PlutoTV/es.xml.gz","https://i.mjh.nz/Plex/all.xml.gz","https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTM3U 
 #EXTINF:-0 group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-0 group-title="RELAX",Naturaleza (FHD)
@@ -386,29 +386,37 @@ https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 #EXTINF:-1 group-title="MÚSICA-AUDIO",Latina Salsa FR
 https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
 
-#EXTINF:-1 group-title="MÚSICA-RADIO",SUPERSTEREO 1
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/09/SuperStereo-1-feat-326x245.jpg" group-title="MÚSICA-RADIO",SUPERSTEREO 1 New Wave, Adult Pop
 http://198.204.228.202:8160/flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",SUPERSTEREO 2
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/09/SuperStereo-2-feat-326x245.jpg" group-title="MÚSICA-RADIO",SUPERSTEREO 2 Oldies 50’s 60’s
 http://198.204.228.202:8157/flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",SUPERSTEREO 3
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/10/SuperStereo-3-feat-326x245.jpg" group-title="MÚSICA-RADIO",SUPERSTEREO 3 80's
 http://198.204.228.202:8539/flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",SUPERSTEREO 4
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2021/07/SuperStereo-4-feat-326x245.jpg" group-title="MÚSICA-RADIO",SUPERSTEREO 4 90’s
 http://198.204.228.202:8030/flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",SUPERSTEREO 6
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/02/SuperStereo-new-feat-326x245.jpg" group-title="MÚSICA-RADIO",SUPERSTEREO 6 Instrumental
 http://198.204.228.202:8157/flac6
-#EXTINF:-1 group-title="MÚSICA-RADIO",RADIO PARADISE
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2022/02/SuperStereo-new-feat-326x245.jpg" group-title="MÚSICA-RADIO",SUPERSTEREO 7 Jazz
+http://198.204.228.202:8030/flac7
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="MÚSICA-RADIO",RADIO PARADISE
 http://stream.radioparadise.com/flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",RADIO PARADISE MELLOW
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="MÚSICA-RADIO",RADIO PARADISE (with metadata)
+http://stream.radioparadise.com/flacm
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="MÚSICA-RADIO",RADIO PARADISE MELLOW
 http://stream.radioparadise.com/mellow-flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",RADIO PARADISE WORLD MIX
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="MÚSICA-RADIO",RADIO PARADISE MELLOW (with metadata)
+http://stream.radioparadise.com/mellow-flacm
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="MÚSICA-RADIO",RADIO PARADISE WORLD MIX
 http://stream.radioparadise.com/eclectic-flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",440Hz
-http://stream.440hz-radio.de:8080/440hz.flac.ogg
-#EXTINF:-1 group-title="MÚSICA-RADIO",95bFM
+#EXTINF:-1 tvg-logo="https://www.hiresaudio.online/wp-content/uploads/2020/06/Radio-Paradise-logo.jpg" group-title="MÚSICA-RADIO",RADIO PARADISE WORLD MIX (with metadata)
+http://stream.radioparadise.com/world-etc-flacm
+#EXTINF:-1,Radio Sing Sing Flac
+http://stream.sing-sing.org:8000/singsingFlac
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA-RADIO",95bFM
 http://streams.95bfm.com/stream112
-#EXTINF:-1 group-title="MÚSICA-RADIO",CITY RADIO
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA-RADIO",CITY RADIO
 http://cityradio.ddns.net:8000/cityradio48flac
-#EXTINF:-1 group-title="MÚSICA-RADIO",CHILLFLORIDA
+#EXTINF:-1 tvg-logo="" group-title="MÚSICA-RADIO",CHILLFLORIDA
 https://us5.internet-radio.com/proxy/chillflorida
 
 #EXTINF:-1 channel-id="pluto-60a286daf888610007669801" tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png" group-title="LOL", Just for Laughs
@@ -466,6 +474,10 @@ https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 channel-id="samsung-ESBC3900002L8" tvg-id="ESBC3900002L8" tvg-chno="4124" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900002L8_20221012T021029SQUARE.png_20221012021029.png" group-title="Entretenimiento",Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8?stoken=samsung.M5xia65252&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="pluto-60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-chno="410" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Entretenimiento", Mi Extraña Obsesión
+#EXTINF:-1 channel-id="samsung-ESBA2200005D6" tvg-id="ESBA2200005D6" tvg-chno="4002" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200005D6_20221109T010655SQUARE.png_20221109010655.png" group-title="Entretenimiento",Todo Crimen
+https://uksono2-samsung-tsv2-hzn2u.amagi.tv/playlist/samsunguk-uksono-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_crimen.png" group-title="Entretenimiento",Crimen TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/c869563d-f8db-493c-8134-e0b2b2489a0c/5.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-6254ab6fa74f8e0007ba6879" tvg-id="6254ab6fa74f8e0007ba6879" tvg-chno="260" tvg-logo="https://images.pluto.tv/channels/6254ab6fa74f8e0007ba6879/colorLogoPNG.png" group-title="Entretenimiento", Maestros de la Ilusión (latino)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ab6fa74f8e0007ba6879/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -478,87 +490,82 @@ https://estrellatv-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d9
 #EXTINF:-1 group-title="PLUTO-Entretenimiento",Antena Seis TV (motor) (e-inliveserver)
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",Comedia made in Spain 
+#EXTINF:-1 channel-id="pluto-5ffe17e3d765170007c3a4fe" tvg-id="5ffe17e3d765170007c3a4fe" tvg-chno="118" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Made in Spain", Pluto TV España (mx)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5f1abce155a03d0007718834" tvg-id="5f1abce155a03d0007718834" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Made in Spain", Comedia made in Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",Ana y los 7
+#EXTINF:-1 channel-id="pluto-5f1acce7f17797000718f9be" tvg-id="5f1acce7f17797000718f9be" tvg-chno="204" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Made in Spain", Ana y los 7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",A las once en casa
+#EXTINF:-1 channel-id="pluto-622f447a32669a00071a8986" tvg-id="622f447a32669a00071a8986" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/622f447a32669a00071a8986/colorLogoPNG.png" group-title="Made in Spain", A las once en casa
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f447a32669a00071a8986/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",El Comisario
+#EXTINF:-1 channel-id="pluto-60c343007bcabe0007242aa6" tvg-id="60c343007bcabe0007242aa6" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png" group-title="Made in Spain", El Comisario
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",Vaya semanita
+#EXTINF:-1 channel-id="pluto-5f28009b150b2500077766b8" tvg-id="5f28009b150b2500077766b8" tvg-chno="206" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Made in Spain", Vaya semanita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1group-title="PLUTO-MADE IN SPAIN",En el punto de mira
+#EXTINF:-1 channel-id="pluto-61922be835f3910007fc58f6" tvg-id="61922be835f3910007fc58f6" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Made in Spain", En el punto de mira
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",Tierra de lobos
+#EXTINF:-1 channel-id="pluto-600ae59c341b1d0007d1c7cb" tvg-id="600ae59c341b1d0007d1c7cb" tvg-chno="207" tvg-logo="https://images.pluto.tv/channels/600ae59c341b1d0007d1c7cb/colorLogoPNG.png" group-title="Made in Spain", Tierra de lobos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae59c341b1d0007d1c7cb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-MADE IN SPAIN",Curro Jiménez
+#EXTINF:-1 channel-id="pluto-5f1acd36779de70007a680d1" tvg-id="5f1acd36779de70007a680d1" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Made in Spain", Curro Jiménez
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="PLUTO-SERIES",Series
+#EXTINF:-1 channel-id="pluto-5f1ac8f49205650007bc15f1" tvg-id="5f1ac8f49205650007bc15f1" tvg-chno="229" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Series", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",BBC Drama
+#EXTINF:-1 channel-id="pluto-60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="228" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Series", BBC Drama
+#EXTINF:-1 channel-id="samsung-ESBA1400003LA" tvg-id="ESBA1400003LA" tvg-chno="4175" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20220713T034526SQUARE.png_20220713034527.png" group-title="Series",BBC Drama (samsungtv)
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Telenovelas
+#EXTINF:-1 channel-id="pluto-60b4c06717da110007ee1af6" tvg-id="60b4c06717da110007ee1af6" tvg-chno="227" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="Series", Pluto TV Telenovelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Doctor Who
+#EXTINF:-1 channel-id="pluto-60d3574e97f10800078455de" tvg-id="60d3574e97f10800078455de" tvg-chno="221" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Series", Doctor Who
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Matrimonio con Hijos 
+#EXTINF:-1 channel-id="pluto-60f58d45696a530007088486" tvg-id="60f58d45696a530007088486" tvg-chno="224" tvg-logo="https://images.pluto.tv/channels/60f58d45696a530007088486/colorLogoPNG.png" group-title="Series", Matrimonio con hijos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58d45696a530007088486/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Asesinatos de Midsomer 
+#EXTINF:-1 channel-id="pluto-5f1aca8310a30e00074fab92" tvg-id="5f1aca8310a30e00074fab92" tvg-chno="236" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="Series", Asesinatos de Midsomer
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Las reglas del juego 
+#EXTINF:-1 channel-id="pluto-5f1acb4eebe0f0000767b40f" tvg-id="5f1acb4eebe0f0000767b40f" tvg-chno="226" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="Series", Las reglas del juego
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Constance Meyer: Jueza en prácticas 
+#EXTINF:-1 channel-id="pluto-6193963c5a960200074ce816" tvg-id="6193963c5a960200074ce816" tvg-chno="235" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png" group-title="Series", Constance Meyer: Jueza en prácticas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Unidad de investigación
+#EXTINF:-1 channel-id="pluto-61bb2814ac085a00074309a6" tvg-id="61bb2814ac085a00074309a6" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png" group-title="Series", Unidad de investigación
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb2814ac085a00074309a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Andrómeda
+#EXTINF:-1 channel-id="pluto-5f1acc3e061597000768d4ea" tvg-id="5f1acc3e061597000768d4ea" tvg-chno="230" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="Series", Andrómeda
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",Mutante X                   
+#EXTINF:-1 channel-id="pluto-5f1acc91cc9e1b000711ff21" tvg-id="5f1acc91cc9e1b000711ff21" tvg-chno="231" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="Series", Mutante X
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",La Niñera
+#EXTINF:-1 channel-id="pluto-60f58f2278490000079bc47b" tvg-id="60f58f2278490000079bc47b" tvg-chno="225" tvg-logo="https://images.pluto.tv/channels/60f58f2278490000079bc47b/colorLogoPNG.png" group-title="Series", La niñera
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, group-title="PLUTO-SERIES",Detectives (e-Samsung) (FHD)
-https://uksono2-samsung-tsv2-hzn2u.amagi.tv/playlist/samsunguk-uksono-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="PLUTO-SERIES",Series Comedia
+#EXTINF:-1 channel-id="pluto-5f9853138d19af0007104a8d" tvg-id="5f9853138d19af0007104a8d" tvg-chno="232" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="Series", Pluto TV Series Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-SERIES",La Chica Invisible
+#EXTINF:-1 channel-id="pluto-5f1abe3ffcd659000770d88d" tvg-id="5f1abe3ffcd659000770d88d" tvg-chno="233" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="Series", La Chica Invisible
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="PLUTO-SERIES",(🇪🇸): A3 SERIES (e) (FHD)
 http://45.84.208.31:4000/play/a00l
 
-#EXTINF:-1 channel-id="pluto-5f984b18dfe75800070e8645" tvg-id="5f984b18dfe75800070e8645" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="PLUTO-PELÍCULAS", Pluto TV Navidad
+#EXTINF:-1 channel-id="pluto-5f984b18dfe75800070e8645" tvg-id="5f984b18dfe75800070e8645" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Películas", Pluto TV Navidad
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine Estelar
+#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="PLUTO-PELÍCULAS",Cine Acción 
+#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine Comedia 
+#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-chno="135" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine Clásico 
+#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-chno="120" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine Drama
+#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-chno="130" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",BBC Drama (e-Amazon)
-https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine Romántico 
+#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-chno="125" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Romántico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Sci-Fi
+#EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Películas", Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Thrillers
+#EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Películas", Pluto TV Thrillers
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Horror
+#EXTINF:-1 channel-id="pluto-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-chno="106" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Películas", Pluto TV Horror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Cine Latino
+#EXTINF:-1 channel-id="pluto-5f984c1dc54853000797a5e8" tvg-id="5f984c1dc54853000797a5e8" tvg-chno="140" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="Películas", Cine Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Indies 
+#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="150" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Películas", Pluto TV Indies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="PLUTO-PELÍCULAS",Film Stream (e-Amazon)
-https://a4c5024989df44268e50935f65fb0d88.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Filmstream/96b39722-33c3-4a6a-b8e0-c6491cafc24f/2.m3u8
-
 #EXTINF:-1 channel-id="samsung-ESBC2700005EE" tvg-id="ESBC2700005EE" tvg-chno="4994" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png" group-title="PLUTO-PELÍCULAS",Películas Top - Rakuten TV
 https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8?ads.wurl_channel=840&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-ESAJ4500020V7" tvg-id="ESAJ4500020V7" tvg-chno="4998" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png" group-title="PLUTO-PELÍCULAS",Dramas - Rakuten TV
