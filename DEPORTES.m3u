@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-0 group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="RELAX",Puestas de Sol (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-0 group-title="RELAX",Naturaleza (FHD)
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -7,8 +7,9 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="RELAX",Playas-acuarios...(Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="RELAX",Cataratas (Bumblebee.tv) (FHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="RELAX",Cataratas (Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953910932c837b4939735d/playlist.m3u8
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 group-title="RELAX",Ríos-afluentes...(Bumblebee.tv) (FHD)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 group-title="RELAX",Lagos-ríos...(Bumblebee.tv) (FHD)
@@ -435,6 +436,8 @@ https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-id="5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/daec6359-e835-443c-9eab-6d6bb07a4ab7/chivetv-logo.png" group-title="LOL",ChiveTV EEUU
 https://amg01325-atmosphere-chivetv-plex-plex-ocb5g.amagi.tv/playlist/amg01325-atmosphere-chivetv-plex-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U&channelId=616df4c10dfa27ee465797fc&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=chivtv&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=KcVyhaJt2MYDCTJYd5-U&ads.channelId=616df4c10dfa27ee465797fc&ads.coppa=0
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="LOL",Weather Spy Europe (ing)
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-5f984d0e09acd50007089c4a" tvg-id="5f984d0e09acd50007089c4a" tvg-chno="73" tvg-logo="https://images.pluto.tv/channels/5f984d0e09acd50007089c4a/colorLogoPNG.png" group-title="Entretenimiento",Luces de Navidad
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984d0e09acd50007089c4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-60c343ad476ec00007c2ec1a" tvg-id="60c343ad476ec00007c2ec1a" tvg-chno="430" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Viajes
@@ -489,7 +492,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c9
 https://estrellatv-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HuT-VaVoRoPGiH1aSQ8Y&channelId=60089d98f682a3002c34829f&uid=1g9et3dqk-pbmp-eg-bvx7-uj3y0jbwyg/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="PLUTO-Entretenimiento",Antena Seis TV (motor) (e-inliveserver)
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ZafraTV.es" tvg-logo="https://webtv.radiotvzafra.es/admin/Uploads/medias/logo.png" group-title="Entretenimiento",Zafra TV (1080p) (subt.)
+https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8
 #EXTINF:-1 channel-id="pluto-5ffe17e3d765170007c3a4fe" tvg-id="5ffe17e3d765170007c3a4fe" tvg-chno="118" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Made in Spain", Pluto TV España (mx)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f1abce155a03d0007718834" tvg-id="5f1abce155a03d0007718834" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Made in Spain", Comedia made in Spain
@@ -2092,7 +2096,6 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8
 #EXTINF:-1 group-title="PLUTO-NOTICIAS",TV3 (e) (cat) (HD)
 https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
-
 #EXTINF:-1 group-title="TV LOCAL",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 group-title="TV LOCAL",La Marina TV
@@ -2103,14 +2106,16 @@ https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8
 https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 group-title="TV LOCAL",TV Artequatre (576p)
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Elche 7 TV
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 group-title="TV LOCAL",Intercomarcal TV
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Punt 3 Vall Uixó
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 group-title="TV LOCAL",TV 4 Vall de Uxó
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:-1 group-title="TV LOCAL",Intercomarcal TV
-https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Levante TV
 https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Burriana TV
@@ -2141,14 +2146,14 @@ https://live.yowi.tv/030d78427f4b6a6a3911/master.m3u8
 http://37.187.7.106/teleribera/live.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Urban Revolution
 https://urbanrevolution.es:8443/live/TV/chunklist_w1780959067.m3u8
-#EXTINF:-1 group-title="TV LOCAL",TV3 (cat) (FHD)
-https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8
-#EXTINF:-1 group-title="TV LOCAL",TV3 (cat) (HD)
-https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" group-title="TV LOCAL",TV3 (cat) (FHD)
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="TV LOCAL",TV3CAT (cat) (FHD)
+https://directes-tv-cat.ccma.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 group-title="TV LOCAL", E3 (Esport 3) (cat) (FHD)
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
+https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1,3/24 (catalan)
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/bitrate_3.m3u8
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 group-title="TV LOCAL",betevé (cat)a
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 group-title="TV LOCAL",Betevé (cat)b
@@ -2163,6 +2168,10 @@ https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/m
 https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",TV de Girona (cat)
 http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 tvg-id="VentdelnordTV.es" tvg-logo="https://i.imgur.com/pdHYWPp.png" group-title="TV LOCAL",Ventdelnord TV (404p)
+http://ventdelnord.tv:8080/hls/directe.m3u8
+#EXTINF:-1 tvg-id="VivaTV.es" tvg-logo="https://i.imgur.com/QLJgDDw.png" group-title="TV LOCAL",Viva TV
+https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Canal 33 Madrid
@@ -3623,7 +3632,8 @@ http://212.18.115.177:3549/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="INGLES",InfoWars (eng)(HD)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="INGLES",FIGHT SPORTS (1080p)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-id="5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac46b1a-270d-435a-9914-2418298c8c44/unexplained-logo.png" group-title="INGLES",Unexplained
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-id="5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" group-title="INGLES",Unidentified
