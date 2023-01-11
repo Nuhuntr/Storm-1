@@ -22,8 +22,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 group-title="RELAX",Bosques Tropicales (Bumblebee.tv)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="RELAX",Travel Guide (lenovotv) (HD)
-https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.myzen.tv/wp-content/uploads/2019/12/logo-white.png" group-title="RELAX",Zen (HD)
 https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
 #EXTINF:-1 group-title="RELAX",Aurora (Bumblebee.tv)
@@ -158,8 +156,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc11
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=HuT-VaVoRoPGiH1aSQ8Y
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="Entretenimiento",Estrella TV (latino)
 https://estrellatv-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=HuT-VaVoRoPGiH1aSQ8Y&channelId=60089d98f682a3002c34829f&uid=1g9et3dqk-pbmp-eg-bvx7-uj3y0jbwyg/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Entretenimiento",Antena Seis TV (motor) (e-inliveserver)
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZafraTV.es" tvg-logo="https://webtv.radiotvzafra.es/admin/Uploads/medias/logo.png" group-title="Entretenimiento",Zafra TV (1080p) (subt.)
 https://cloud.streamingconnect.tv/hls/radiotvzafra/gcmin.m3u8
@@ -184,10 +180,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680
 
 #EXTINF:-1 channel-id="pluto-5f1ac8f49205650007bc15f1" tvg-id="5f1ac8f49205650007bc15f1" tvg-chno="229" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Series", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="228" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Series", BBC Drama
-#EXTINF:-1 channel-id="samsung-ESBA1400003LA" tvg-id="ESBA1400003LA" tvg-chno="4175" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20220713T034526SQUARE.png_20220713034527.png" group-title="Series",BBC Drama (samsungtv)
-https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="pluto-60dafb9a0df1ba000758d37b" tvg-id="60dafb9a0df1ba000758d37b" tvg-chno="228" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Series", BBC Drama (PLUTO)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="samsung-ESBA1400003LA" tvg-id="ESBA1400003LA" tvg-chno="4175" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20220713T034526SQUARE.png_20220713034527.png" group-title="Series",BBC Drama (RAKUTEN)
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8?ads.wurl_channel=988&ads.wurl_name=BBCDrama&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="pluto-60b4c06717da110007ee1af6" tvg-id="60b4c06717da110007ee1af6" tvg-chno="227" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" group-title="Series", Pluto TV Telenovelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-60d3574e97f10800078455de" tvg-id="60d3574e97f10800078455de" tvg-chno="221" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Series", Doctor Who
@@ -277,8 +273,6 @@ https://samsunguk-sofy-samsung-es-ibtvr.amagi.tv/playlist/samsunguk-sofy-samsung
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 channel-id="samsung-ESBA3300039ZX" tvg-id="ESBA3300039ZX" tvg-chno="4163" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png" group-title="Películas",Tu Cine (latino)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 group-title="Películas",(🇪🇸): BEMAD (e) (FHD)
-http://45.84.208.31:4000/play/a00m
 
 #EXTINF:-1 channel-id="samsung-ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-chno="4435" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20221214T044859SQUARE.png_20221214044900.png" group-title="Estilo de Vida",Pluto TV Cocina (Rakuten)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0af1f26bc900079ab871/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
@@ -286,56 +280,46 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-609062295c2b8f0007199e7a" tvg-id="609062295c2b8f0007199e7a" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Estilo de Vida", Pluto TV Recetas (mx)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Estilo de vida",Tastemade (Rakuten)
-https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="Estilo de Vida",Saber Mas (PLEX)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U&channelId=6018913ea15130002b284195&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=MEODRE2
+#EXTINF:-1 channel-id="samsung-ESBA2200006B4" tvg-id="ESBA2200006B4" tvg-chno="4438" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200006B4_20220810T012723SQUARE.png_20220810012723.png" group-title="Estilo de Vida",Tastemade (RAKUTEN)
+https://tastemade-tastemade-es8intl-samsung-spain-03ylr.amagi.tv/playlist/tastemade-tastemade-es8intl-samsung-spain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 channel-id="samsung-ESBC3500002PW" tvg-id="ESBC3500002PW" tvg-chno="4417" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png" group-title="Estilo de vida",Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
-#EXTINF:-1 group-title="Estilo de vida",El Gourmet HD (latino)
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Estilo de vida",El Gourmet HD (latino)
 http://181.78.24.187:8006/play/a06a/index.m3u8
-#EXTINF:-1 group-title="Estilo de vida",Televisión Consciente (Rakuten)
+#EXTINF:-1 channel-id="samsung-ESBC1700002IM" tvg-id="ESBC1700002IM" tvg-chno="4402" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700002IM_20220511T011722SQUARE.png_20220511011723.png" group-title="Estilo de Vida",Televisión Consciente (RAKUTEN)
 https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&coppa=0&tc_string=%7BTC_STRING%7D
-#EXTINF:-1 group-title="Estilo de vida",Entrena Virtual (e-Vikika)
+#EXTINF:-1 channel-id="samsung-ESBC1400002MN" tvg-id="ESBC1400002MN" tvg-chno="4411" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400002MN_20220412T141122SQUARE.png_20220412141124.png" group-title="Estilo de Vida",Entrena Virtual by Vikika
 https://d1b3ih5h5mvhe9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xzw42c0gbtlyw-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="Estilo de vida",TV Salud (e-mastermedia)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGlWnyx.jpg" group-title="Estilo de vida",TV Salud (latino)
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 group-title="Estilo de vida",¡Hola! Play (e-Amazon)
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="Estilo de vida",Fashion TV (e-Amazon)
 https://9d71e7fce78e454e967afe6d07e80146.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FashionTV/playlist.m3u8?ads.wurl_channel=382&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="615" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Tuning
+#EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="615" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="MTV",MTV Tuning
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Geordies
+#EXTINF:-1 channel-id="pluto-627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" group-title="MTV",MTV Geordies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d3176d7dfa500077042f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="625" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Embarazada a los 16
+#EXTINF:-1 channel-id="pluto-5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="625" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV",MTV Embarazada a los 16
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-600169ec77e6f70008fa9cf0" tvg-id="600169ec77e6f70008fa9cf0" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Dating
+#EXTINF:-1 channel-id="pluto-600169ec77e6f70008fa9cf0" tvg-id="600169ec77e6f70008fa9cf0" tvg-chno="650" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="MTV",MTV Dating
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-chno="610" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Tattoo a dos
+#EXTINF:-1 channel-id="pluto-611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-chno="610" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="MTV",MTV Tattoo a dos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="620" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Teen Mom
+#EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="620" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV",MTV Teen Mom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="630" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Realities
+#EXTINF:-1 channel-id="pluto-6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="630" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="MTV",MTV Realities
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="640" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Originals
+#EXTINF:-1 channel-id="pluto-5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="640" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV",MTV Originals
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f1aaefb96f755000733c11a" tvg-id="5f1aaefb96f755000733c11a" tvg-chno="645" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Brave
+#EXTINF:-1 channel-id="pluto-5f1aaefb96f755000733c11a" tvg-id="5f1aaefb96f755000733c11a" tvg-chno="645" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="MTV",MTV Brave
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="600" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Catfish TV Show
+#EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="600" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV",MTV Catfish TV Show
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f1ab9c6d8f1300007f54e30" tvg-id="5f1ab9c6d8f1300007f54e30" tvg-chno="655" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="PLUTO-MTV",MTV Cribs
+#EXTINF:-1 channel-id="pluto-5f1ab9c6d8f1300007f54e30" tvg-id="5f1ab9c6d8f1300007f54e30" tvg-chno="655" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="MTV",MTV Cribs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
 
 #EXTINF:-1 group-title="Documentales",Documentales
@@ -344,7 +328,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e282
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Documentales",Naturaleza
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/7c263ffb-9f8f-4ecf-ab5a-9f73afe0818e/5.m3u8
-
+#EXTINF:-1 tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-300x157.png" group-title="Documentales",Turistik TV Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:-1 group-title="Crimen y Misterio",Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Crimen y Misterio",Los nuevos detectives
@@ -392,12 +377,12 @@ acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): DAZN 4 (FHD) (ACE)
 acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): BARÇA TV (cat) (SD) (ACE)
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/fcb.png" group-title="Deportes Acestream",(🇪🇸): BARÇA TV (cat) (SD) (ACE)
 acestream://a7968ae40764bf3d4498c72328fcbaecbe0a3450
 #EXTINF:-1 group-title="Deportes Acestream",(🇪🇸): M+ Golf (FHD) (ACE)
 4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 group-title="Deportes",(🇪🇸): BARÇA TV (cat)➾(SD)⚽
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/fcb.png" group-title="Deportes",(🇪🇸): BARÇA TV (cat)➾(SD)⚽
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
 #EXTINF:0 group-title="Deportes",(🇪🇸): E3 (Esport 3) (cat) (FHD)
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_3.m3u8
@@ -433,6 +418,8 @@ http://45.135.194.113:8005/play/a025
 http://154.54.220.247:51323/play/a037/index.m3u8
 #EXTINF:-1 group-title="Deportes",(🇪🇸): TVE Teledeporte (FHD)
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Antena Seis TV (F1) (e-inliveserver)
+http://inliveserver.com:1935/14510/14510/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=575de5f7-e1e3-4e8a-badb-28d74da20e1d&deviceVersion=103.0.0&appVersion=6.4.0-3bcdc583b1e5a19f7836864e7ebe5e04d5e576c9&deviceType=web&deviceMake=chrome&sid=b4954091-110c-11ed-882b-0242ac110003&advertisingId=&deviceLat=38.342&deviceLon=-0.4825&deviceDNT=0&deviceModel=web&userId=&appName=web&gdpr=1&gdprConsent=CPZtJ0bPZtJ1WAcABBENCaCgAAAAAAAAACiQAAAAAAIhADYABoAGAAbABcAGAASAAtABeADoAH4ARgAnQBaAFuAMIAxQBlAGyAQIBBACMgEeASAAogBSAC5AHEAQkAkoBTQFQAL_AYoA8wKALAAUACoAHoARwApACtAHAAQgAlcBXQFfAYyGAYgAGgAWABoAFYALgAwACAAEgAKgAZAA9AB_AEMARIAjACOAEyAJwAngBSgC0ALcAXwBiADLAGgAbAA5wCBAIIAQgAhgBEgCMAEdAKIApQBWgC3AFzAOAA4gBzwEIAQkAjABKwCmwFdAV8AuoBgQDeAH6ASIAvMBf4DFAGMgMkAacA8wQAGAAMACQAJ4AWwBSAG8EQAwBDAEYASIKgCgBDACYAI4A3gC8xQAEAUgyAKAEMAJgAjgDeALzGAAQBSDgDgABoAGAAaABgAEgALQAXgA6ACMAE6ALQAtgBhADKAGwAN0AgQCCAEIAIyAR4BIACiAFIALkAcQBCQCSgH6AX-AxQB5g8AYAAoAFQAPQAjgBSAFaAOAAlYBOICugK-AfwBjJAAYAA0AMIAgQBHgCkAFuALkAcQBCQCSgH6AYoRADgAqAFaAOAAlYBOICugK-AfwkATAAMAA0ADAAJAAtABhADKAGwAN0AgQCCAEIAKIAUgA4gCSgGBAP0Av8BihMAQAEcAKQArQCVgFNgK6Ar4B_AGMlADQABgAGgAYABIAC0AHQARgAtABhADKAGyAQIBBACEAEZAI8AkABRACkAHEAQgAkoBTQDAgH6AX-AxQB5hUAOACoAI4ArQCVwFdAV8BjIDTgAAA.YAAAAAAAAAAA&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjMyNjAyN2I0LTlmZGEtNDMzOC05NTRkLWQ5MzBlZmIzOWQ5YiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNDk1NDA5MS0xMTBjLTExZWQtODgyYi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6Ijk1LjIzLjIzOC44NCIsImNpdHkiOiJBbGljYW50ZSIsInBvc3RhbENvZGUiOiIwMzAxNSIsImNvdW50cnkiOiJFUyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiRVMiLCJkZXZpY2VMYXQiOjM4LjM0MiwiZGV2aWNlTG9uIjotMC40ODI1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMDMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjQuMC0zYmNkYzU4M2IxZTVhMTlmNzgzNjg2NGU3ZWJlNWUwNGQ1ZTU3NmM5IiwiY2xpZW50SUQiOiI1NzVkZTVmNy1lMWUzLTRlOGEtYmFkYi0yOGQ3NGRhMjBlMWQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiRXVyb3BlL01hZHJpZCIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTkzMjY5NzgsImp0aSI6IjdiZDY3MGI3LWM4YzMtNDNmNS05NzZhLTg3YWNkNzQ4YzgwNSIsImlhdCI6MTY1OTI5ODE3OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkVTOk5UYzFaR1UxWmpjdFpURmxNeTAwWlRoaExXSmhaR0l0TWpoa056UmtZVEl3WlRGayJ9.ALBDa0Pc5CG9xgNe8h6jf_bu63b0MLqTVgZZ1a_4soM
 #EXTINF:-1 group-title="Deportes",Fitness
@@ -450,6 +437,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 group-title="Música Videoclips",VH1 Classics (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" group-title="Música Videoclips" tvg-name="Activa TV España",Activa TV España HD
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Indistry (GalxyTV)
 https://stream-us-east-1.getpublica.com/cl/a30e61ad-7cce-4839-8c1c-5a79a4bedac3/1280x720_2703601_0_f.m3u8
 #EXTINF:-1 group-title="Música Videoclips",Oxigeno TV
@@ -1963,153 +1952,59 @@ http://www.mat3.cat/Pelis/Dentro%20del%20Laberinto%20(a%c3%b1o%201986).avi
 #EXTINF:-1 group-title="PELÍS archive.org",LA VIUDA NEGRA [1977]
 https://archive.org/serve/la-viuda-negra-1977/LA%20VIUDA%20NEGRA%20%5B1977%5D.mp4
 
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN DEPORTES (FHD)
-http://38.143.137.221:8000/LA81/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN PLUS (SD-)
-http://38.143.137.221:8000/LA78/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (a) (HD)
-http://45.160.15.130:8111/play/212
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (b) (HD)
-http://45.160.15.1:8111/play/a0qv
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (c) (HD)
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (d) (HD)
-http://190.131.228.59:8000/play/a0g2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (e) (SD)
-http://179.1.77.222:8000/play/a012
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (f)Co (SD)
-http://190.131.228.59:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (a) (SD)
-http://38.143.137.221:8000/LA80/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (b) (HD)
-http://45.160.15.130:8111/play/214
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (c) (HD)
-http://190.131.228.59:8000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (d) (SD)
-http://190.131.228.59:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (e) (SD)
-http://190.131.228.59:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (f) (SD)
-http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (a) (FHD)
-http://38.143.137.221:8000/LA79/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (b) (HD)
-http://45.160.15.130:8111/play/216c
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (c) (HD)
-http://190.131.228.59:8000/play/a0g3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (d) (SD)
-http://190.131.228.59:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 4 (a) (FHD)
-http://45.160.15.130:8111/play/218
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 4 (b) (SD)
-http://181.224.201.3:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: FUTV HD (HD)
-http://38.143.137.221:8000/LA94/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: FOX DEPORTES (HD)
-http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sport (a) (SD)
-http://179.1.77.222:8000/play/a011
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports (b) (SD)
-http://190.131.228.59:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 1 (a) (SD)
-http://45.160.15.130:8111/play/209
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 1 (b) (SD)
-http://45.160.15.1:8111/play/a0qg
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (a) (FHD)
-http://45.160.15.130:8111/play/210
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (b) (FHD)
-http://45.160.15.1:8111/play/a0qh
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (c) (SD)
-http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (a) (FHD)
-http://190.131.228.59:8000/play/a0g5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (b) (HD)
-http://45.160.15.130:8111/play/211
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (c) (HD)
-http://45.160.15.1:8111/play/a0qi
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (d) (SD)
-http://190.131.228.59:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: GOL TV (SD)
-http://190.131.228.59:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports (a) (FHD)
-http://45.160.15.130:8111/play/233
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports (b) (FHD)
-http://45.160.15.1:8111/play/233
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 2 (a) (SD)
-http://45.160.15.130:8111/play/234
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 2 (b) (SD)
-http://190.131.228.59:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 3 (SD)
-http://45.160.15.130:8111/play/235
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Claro Sports HD
-http://181.224.201.3:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Zoom
-http://190.131.228.59:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: Win Sports+ (Chirincirco) (FHD)a
-http://190.131.228.59:8000/play/a0e2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES LATINO",LA: TyC Sports
-http://190.131.228.59:8000/play/a05v/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Eurosport 1 (D)(FHD)
-http://185.236.229.13:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Sport TV 1 (FHD)
-http://185.236.229.13:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 2 (FHD)
-http://185.236.229.13:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 2 (FHD)
-http://185.236.229.13:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Sport TV 2 (FHD)
-http://185.236.229.13:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 3 (FHD)
-http://185.236.229.13:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 4 (FHD)
-http://185.236.229.13:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/CFl3zRU.png",(🇵🇹): ELEVEN SPORTS 1 (HD)⚽
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/JcANqBJ.png",(🇵🇹): ELEVEN SPORTS 2 (HD)⚽
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/1Akxat2.png",(🇵🇹): ELEVEN SPORTS 3 (HD)⚽
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/1Akxat2.png",(🇵🇹): Eleven 3 (SD)
-http://185.236.229.13:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/TeqAoTS.png",(🇵🇹): ELEVEN SPORTS 4 (HD)⚽
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/URNcmBu.png",(🇵🇹): ELEVEN SPORTS 5 (HD)⚽
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/dRMNOMu.png",(🇵🇹): ELEVEN SPORTS 6 (HD)⚽
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
-
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Actualidad RT (1080p)
-https://cdn.odysee.live/1080/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Actualidad RT (720p)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",RT en español (FHD)
+https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (HD)
 https://cdn.odysee.live/720/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Actualidad RT (480p)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="Noticias",Actualidad RT (SD)
 https://cdn.odysee.live/480/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Euronews
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/telesur.png" group-title="Noticias",Telesur (FHD)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rndserv.xyz/img/vtv.png" group-title="Noticias",VTV (HD)
+https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLgmWkZaNRBfGcUuBP7d094Vuu_CVNujSrXha27kYoRjw)/dm/3/x828i6j/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (HD)
+https://live1.presstv.ir/live/hispan_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="Noticias",HispanTV (SD)
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+#EXTINF:-1 channel-id="pluto-60d3583ef310610007fb02b1" tvg-id="60d3583ef310610007fb02b1" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="Noticias", Euronews
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="PLUTO-NOTICIAS",France 24 Español (e)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Noticias",France 24 Español (e)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Canal Parlamento (e-congresodirecto) 
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",7NN Noticias (e)
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",El Confidencial (e)
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Noticias",Canal Parlamento (360p)
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 group-title="Noticias",El Confidencial (e)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",Negocios TV (e)
+#EXTINF:-1 group-title="Noticias",Negocios TV (e)
 https://live.gooru.live/negocios/live.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE 24h (e) (HD)
+#EXTINF:-1 group-title="Noticias",(🇪🇸): TVE 24h (e) (HD)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 1 (HD)
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 1 (SD)
-http://190.131.228.59:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE la 1 (SD-)
-http://45.160.15.130:8111/play/153
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",(🇪🇸): TVE La 2 (FHD)
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",TV3 (e) (cat) (FHD)
-https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8
-#EXTINF:-1 group-title="PLUTO-NOTICIAS",TV3 (e) (cat) (HD)
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Noticias",3/24
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 group-title="Noticias",LA: Capital
+http://190.131.228.59:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Noticias",LA: Canal Institucional (Co) (SD)
+http://190.131.228.59:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Noticias",LA: Canal del Congreso (Co)
+http://190.131.228.59:8000/play/a009/index.m3u
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="Noticias",ADN 40 (SDp)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Noticias",Cablenoticias (Bogotà | Cundinamarca) (FHD)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español (FHD)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="Noticias",Estrella News (FHD)
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",LA: CNN Chile (SD)
+http://190.131.228.59:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Noticias",LA: CNN Espanol (SD)
+http://190.131.228.59:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="Noticias",Iberoamerica Noticias
+https://limited39.todostreaming.es/live/salome-livestream.m3u8
+#EXTINF:-1 group-title="Noticias",LA: Telemundo
+http://179.1.77.222:8000/play/a00v
+#EXTINF:-1 tvg-id="7NN.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png" group-title="Noticias",7 Noticias
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
+
 https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
@@ -2165,6 +2060,8 @@ https://urbanrevolution.es:8443/live/TV/chunklist_w1780959067.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="TV LOCAL",TV3CAT (cat) (FHD)
 https://directes-tv-cat.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 group-title="TV LOCAL",33 GEO CAT (FHD)
+https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:0 group-title="TV LOCAL", E3 (Esport 3) (cat) (FHD)
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1,3/24 (catalan)
@@ -2462,32 +2359,121 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",Telesur (FHD)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",Telesur (SD)
-http://179.1.77.222:8000/play/a00w
-#EXTINF:-1 group-title="NOTICIAS LATINO",VTV (venezolana de televisión)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/russia-today-logo-1349164221-seeklogo.com.png" group-title="NOTICIAS LATINO",RT en español (FHD)
-https://cdn.odysee.live/live/9f638b94d11d879726ae55dd5a0923621b96a45b.m3u8?cachebust=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (HD)
-https://live1.presstv.ir/live/hispan_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="NOTICIAS LATINO",HispanTV (SD)
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Capital
-http://190.131.228.59:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Canal Institucional (Co) (SD)
-http://190.131.228.59:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Canal del Congreso (Co)
-http://190.131.228.59:8000/play/a009/index.m3u
-#EXTINF:-1 group-title="NOTICIAS LATINO",LA: CNN Chile (SD)
-http://190.131.228.59:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",LA: CNN Espanol (SD)
-http://190.131.228.59:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",Iberoamerica Noticias
-https://limited39.todostreaming.es/live/salome-livestream.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",CGTN Español (lat)
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN DEPORTES (FHD)
+http://38.143.137.221:8000/LA81/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN PLUS (SD-)
+http://38.143.137.221:8000/LA78/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (a) (HD)
+http://45.160.15.130:8111/play/212
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (b) (HD)
+http://45.160.15.1:8111/play/a0qv
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (c) (HD)
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (d) (HD)
+http://190.131.228.59:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (e) (SD)
+http://179.1.77.222:8000/play/a012
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN (f)Co (SD)
+http://190.131.228.59:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (a) (SD)
+http://38.143.137.221:8000/LA80/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (b) (HD)
+http://45.160.15.130:8111/play/214
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (c) (HD)
+http://190.131.228.59:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (d) (SD)
+http://190.131.228.59:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (e) (SD)
+http://190.131.228.59:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 2 (f) (SD)
+http://190.131.228.59:8000/play/a0hn/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (a) (FHD)
+http://38.143.137.221:8000/LA79/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (b) (HD)
+http://45.160.15.130:8111/play/216c
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (c) (HD)
+http://190.131.228.59:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 3 (d) (SD)
+http://190.131.228.59:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 4 (a) (FHD)
+http://45.160.15.130:8111/play/218
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: ESPN 4 (b) (SD)
+http://181.224.201.3:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: FUTV HD (HD)
+http://38.143.137.221:8000/LA94/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: FOX DEPORTES (HD)
+http://us1-external-sources.iptvserver.tv/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sport (a) (SD)
+http://179.1.77.222:8000/play/a011
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports (b) (SD)
+http://190.131.228.59:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 1 (a) (SD)
+http://45.160.15.130:8111/play/209
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 1 (b) (SD)
+http://45.160.15.1:8111/play/a0qg
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (a) (FHD)
+http://45.160.15.130:8111/play/210
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (b) (FHD)
+http://45.160.15.1:8111/play/a0qh
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 2 (c) (SD)
+http://190.131.228.59:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (a) (FHD)
+http://190.131.228.59:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (b) (HD)
+http://45.160.15.130:8111/play/211
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (c) (HD)
+http://45.160.15.1:8111/play/a0qi
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Fox Sports 3 (d) (SD)
+http://190.131.228.59:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: GOL TV (SD)
+http://190.131.228.59:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports (a) (FHD)
+http://45.160.15.130:8111/play/233
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports (b) (FHD)
+http://45.160.15.1:8111/play/233
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 2 (a) (SD)
+http://45.160.15.130:8111/play/234
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 2 (b) (SD)
+http://190.131.228.59:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TNT Sports 3 (SD)
+http://45.160.15.130:8111/play/235
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Claro Sports HD
+http://181.224.201.3:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Zoom
+http://190.131.228.59:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: Win Sports+ (Chirincirco) (FHD)a
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES LATINO",LA: TyC Sports
+http://190.131.228.59:8000/play/a05v/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Eurosport 1 (D)(FHD)
+http://185.236.229.13:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Sport TV 1 (FHD)
+http://185.236.229.13:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 2 (FHD)
+http://185.236.229.13:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 2 (FHD)
+http://185.236.229.13:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): Sport TV 2 (FHD)
+http://185.236.229.13:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 3 (FHD)
+http://185.236.229.13:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL",(🇵🇹): SPORT TV 4 (FHD)
+http://185.236.229.13:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/CFl3zRU.png",(🇵🇹): ELEVEN SPORTS 1 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/JcANqBJ.png",(🇵🇹): ELEVEN SPORTS 2 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/1Akxat2.png",(🇵🇹): ELEVEN SPORTS 3 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/1Akxat2.png",(🇵🇹): Eleven 3 (SD)
+http://185.236.229.13:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/TeqAoTS.png",(🇵🇹): ELEVEN SPORTS 4 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/URNcmBu.png",(🇵🇹): ELEVEN SPORTS 5 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1 group-title="DEPORTES PORTUGAL" tvg-logo="https://i.imgur.com/dRMNOMu.png",(🇵🇹): ELEVEN SPORTS 6 (HD)⚽
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 group-title="LATINO-PELÍCULAS",LA: DE-PELICULA
 http://179.1.77.222:8000/play/a00j
@@ -2598,9 +2584,6 @@ http://190.131.228.59:8000/play/a00e/index.m3u8
 http://190.131.228.59:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: RCN (Co) (SD)
 http://190.131.228.59:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS LATINO",LA: Telemundo
-http://179.1.77.222:8000/play/a00v
-
 #EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: E Entertainment (latino) (SD)
 http://190.131.228.59:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="LATINO-ENTRETENIMIENTO",LA: I-Sat (SD)
@@ -3645,15 +3628,15 @@ http://212.18.115.177:3549/play/a03g/index.m3u8
 #EXTINF:-1 group-title="TV ALEMANIA",rbb Brandenburg FHD
 http://212.18.115.177:3549/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title="Inglés",InfoWars (eng)(HD)
+#EXTINF:-1 tvg-id="InfoWars.us" tvg-logo="https://i.imgur.com/a7h9epj.png" group-title="EEUU",InfoWars (HD)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Inglés",FIGHT SPORTS (1080p)
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="EEUU",FIGHT SPORTS (FHD)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-id="5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac46b1a-270d-435a-9914-2418298c8c44/unexplained-logo.png" group-title="Inglés",Unexplained
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-id="5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac46b1a-270d-435a-9914-2418298c8c44/unexplained-logo.png" group-title="EEUU",Unexplained
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62913be9a0ed9c2b6ae63bac.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-id="5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" group-title="Inglés",Unidentified
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-id="5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" group-title="EEUU",Unidentified
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6227d1d2c9f485cc7afe8c44.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=KcVyhaJt2MYDCTJYd5-U
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="Inglés",WeatherSpy
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" group-title="EEUU",WeatherSpy
 https://4bcfcc1294004089a615518bf70294e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_WeatherSpy/playlist.m3u8?ads.wurl_channel=387&ads.wurl_name=WeatherSpy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=KcVyhaJt2MYDCTJYd5-U&ads.plex_id=5f170d66b898490041b493ad&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="Inglés",American Horrors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="EEUU",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
