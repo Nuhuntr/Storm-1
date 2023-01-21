@@ -2097,7 +2097,13 @@ http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Canal Sur 2 Andalucía
-http://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2200000
+chunklist_b2200000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000
+chunklist_b1500000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000
+chunklist_b800000.m3u8
 #EXTINF:-1 group-title="TV LOCAL",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV LOCAL",El Toro TV
