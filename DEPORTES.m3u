@@ -33,11 +33,10 @@ https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stre
 #EXTINF:-1 group-title="RELAX",Fireplace Holiday (cloudfront)
 https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png" group-title="Infantil",Pequeradio (e-pequetv)
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/03a279bb-c78f-477d-8056-40b730bf1a5c-caillou-1628664175.jpeg" group-title="Infantil",Caillou
 https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3591&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f3faf7dd-55cc-4681-b17b-c8f5a9e1cdac&ads.user_type=visitor&ads.wurl_channel=665
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png" group-title="Infantil",Pequeradio (e-pequetv)
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="Infantil",BabyFirst (latino)
 http://181.236.192.254:8000/play/a02g/index.m3u8
 #EXTINF:-1 channel-id="pluto-624466b26ab25e0007dd7cfb" tvg-id="624466b26ab25e0007dd7cfb" tvg-chno="775" tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png" group-title="Infantil",Dora la Exploradora
